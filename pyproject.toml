@@ -9,3 +9,5 @@ dependencies = [
     "pytest>=8.4.1",
     "selenium>=4.34.2",
 ]
+[tool.pytest.ini_options]
+pythonpath = ["src"]
