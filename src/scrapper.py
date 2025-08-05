@@ -2,6 +2,11 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
 from database import insert_questions
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+COLLECTION = os.getenv("COLLECTION_SCRAPPER")
 
 def get_lasted_questions_page() -> list:
     driver = webdriver.Chrome()
@@ -35,4 +40,4 @@ if __name__ == "__main__":
     lasted_questions = get_lasted_questions_page()
     for q in lasted_questions:
         print(q)
-    # insert_questions(lasted_questions)
+    insert_questions(lasted_questions, COLLECTION, append=True)

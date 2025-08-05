@@ -1,4 +1,9 @@
 import requests
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+COLLECTION = os.getenv("COLLECTION_API")
 
 def get_questions(tag, max_questions):
     url = "https://api.stackexchange.com/2.3/questions"
@@ -25,3 +30,4 @@ def get_questions(tag, max_questions):
 if __name__ == "__main__":
     for q in get_questions("random-forest", 5):
         print(q)
+    # insert_questions(lasted_questions, COLLECTION)

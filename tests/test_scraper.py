@@ -1,5 +1,5 @@
 # Integration Test
-from scraper import get_lasted_questions_page
+from scrapper import get_lasted_questions_page
 
 def test_get_lasted_questions_page():
     questions = get_lasted_questions_page()
