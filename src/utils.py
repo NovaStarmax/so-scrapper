@@ -1,4 +1,13 @@
-# dictionnaire de langages
-languages = ()
-
-# match sur toute la bdd,  combinen d'occurance dans le dict, cela permetra d'être appelé dans eda
+DATA_SCIENCE_LANGUAGES = [
+    "python",
+    "r",
+    "julia",
+    "scala",
+    "java",
+    "c++",
+    "c",
+    "matlab",
+    "sas",
+    "javascript",
+    "typescript",
+]
