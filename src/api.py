@@ -38,20 +38,21 @@ def get_questions_paginated():
     """
     Récupère jusqu'à 1000 questions en utilisant la pagination (10 pages de 100 questions).
     """
-    tags = "python;r;sql;julia;r-language;scala;java;matlab;excel;sas;tensorflow;pytorch;keras;pandas;numpy;scikit-learn;xgboost;lightgbm;nlp"
+    # tags = "python;r;sql;julia;r-language;scala;java;matlab;excel;sas;tensorflow;pytorch;keras;pandas;numpy;scikit-learn;xgboost;lightgbm;nlp"
     url = "https://api.stackexchange.com/2.3/questions"
     questions = []
     for page in range(1, 11):
         params = {
         "order": "desc",
         "sort": "creation",
-        "site": "datascience",
+        "site": "stackoverflow",
         "pagesize": PAGESIZE,
-        "tagged": tags,
-        # 01/01/2025
-        "fromdate": 1735686000,
-        # 05/08/2025
-        "todate": 1754344800,
+        "tagged": "data-science",
+
+        # # 01/01/2025
+        # "fromdate": 1735686000,
+        # # 05/08/2025
+        # "todate": 1754344800,
         "page": page
         }
         response = requests.get(url, params=params)
@@ -69,7 +70,7 @@ def get_questions_paginated():
 
 
 if __name__ == "__main__":
-    test = get_questions(PAGESIZE)
+    test = get_questions_paginated()
     for q in test:
         print(q)
     insert_questions(test, COLLECTION, append=False)
