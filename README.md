@@ -8,6 +8,4 @@ uv run pytest
 uv run python src/scraper.py
 
 ## Mongo DB
-Il faut que tu installe mongo bd en local sur ton ordi.
-
-Il faut que tu installe l'extansion vs code, que tu crée une base de donnée 
+Index unique par URL, s'il y a un doublon, ne l'ajoute pas en double

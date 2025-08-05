@@ -1,35 +1,18 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
-import time
+from dotenv import load_dotenv
+from src.database import get_collection
+import os
 
-def scrape_stackoverflow():
-    driver = webdriver.Chrome()
-    driver.get("https://stackoverflow.com/questions?tab=Newest")
-    time.sleep(2)
+load_dotenv()
+COLLECTION_API = os.getenv("COLLECTION_API")
+COLLECTION_SCRAPPER = os.getenv("COLLECTION_SCRAPPER")
 
-    soup = BeautifulSoup(driver.page_source, "html.parser")
-    driver.quit()
-
-    questions = []
-    for question_div in soup.select(".s-post-summary"):
-        title_tag = question_div.select_one(".s-post-summary--content-title a")
-        summary_tag = question_div.select_one(".s-post-summary--content-excerpt")
-        tags = [t.text for t in question_div.select(".s-post-summary--meta-tags a")]
-        author_tag = question_div.select_one(".s-user-card--link")
-        date_tag = question_div.select_one(".relativetime")
-
-        question = {
-            "title": title_tag.text.strip() if title_tag else None,
-            "link": "https://stackoverflow.com" + title_tag["href"] if title_tag else None,
-            "summary": summary_tag.text.strip() if summary_tag else None,
-            "tags": tags,
-            "author": author_tag.text.strip() if author_tag else None,
-            "date": date_tag["title"] if date_tag and date_tag.has_attr("title") else None
-        }
-        questions.append(question)
-
-    return questions
+def setup_indexes(collection: str):
+    collection = get_collection(collection)
+    collection.create_index("link", unique=True)
+    print("Unique index on 'link' created on : ", collection)
 
 if __name__ == "__main__":
-    for q in scrape_stackoverflow()[:5]:
-        print(q)
+    setup_indexes(COLLECTION_API)
+    setup_indexes(COLLECTION_SCRAPPER)
