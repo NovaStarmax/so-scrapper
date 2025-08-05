@@ -3,9 +3,9 @@ from pymongo import MongoClient
 from dotenv import load_dotenv
 
 load_dotenv()
-MONGO_URI = os.getenv("CLIENT", "mongodb://localhost:27017/")
-DB_NAME = os.getenv("DB", "so_scrapper_db")
-COLLECTION_NAME = os.getenv("COLLECTION", "questions")
+MONGO_URI = os.getenv("CLIENT")
+DB_NAME = os.getenv("DB")
+COLLECTION_NAME = os.getenv("COLLECTION")
 
 def get_collection():
     client = MongoClient(MONGO_URI)
@@ -17,8 +17,11 @@ def insert_questions(questions):
     if questions:
         result = collection.insert_many(questions)
         print(f"{len(result.inserted_ids)} Documents insert into Database {DB_NAME}.{COLLECTION_NAME}.")
+        return True
     else:
         print("No Question to add.")
+        return False
+    
 
 def get_last_data(limit: int=15):
     collection = get_collection()

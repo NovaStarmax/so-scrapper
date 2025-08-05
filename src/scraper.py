@@ -35,4 +35,4 @@ if __name__ == "__main__":
     lasted_questions = get_lasted_questions_page()
     for q in lasted_questions:
         print(q)
-    insert_questions(lasted_questions)
+    # insert_questions(lasted_questions)
