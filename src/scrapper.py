@@ -1,6 +1,6 @@
-import requests
+import asyncio
+import aiohttp
 from bs4 import BeautifulSoup
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from database import insert_questions
 import os
 from dotenv import load_dotenv
@@ -9,19 +9,8 @@ import time
 load_dotenv()
 COLLECTION = os.getenv("COLLECTION_SCRAPPER")
 
-def scrape_page(url: str) -> list:
-    """
-    Scrape une page Stack Overflow (Newest Questions).
-    Retourne une liste de dictionnaires contenant titre, lien, résumé, tags, auteur et date.
-    """
-    headers = {
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-                      "(KHTML, like Gecko) Chrome/114.0 Safari/537.36"
-    }
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-
-    soup = BeautifulSoup(response.text, "html.parser")
+def parse_questions(html: str) -> list:
+    soup = BeautifulSoup(html, "html.parser")
     questions = []
     for question_div in soup.select(".s-post-summary"):
         title_tag = question_div.select_one(".s-post-summary--content-title a")
@@ -40,36 +29,25 @@ def scrape_page(url: str) -> list:
         })
     return questions
 
-def scrape_multiple_pages(pages: int = 5) -> list:
-    """
-    Scrape plusieurs pages en parallèle.
-    """
+async def fetch_page(session, url):
+    async with session.get(url) as response:
+        html = await response.text()
+        return parse_questions(html)
+
+async def scrape_async(pages: int = 1) -> list:
     base_url = "https://stackoverflow.com/questions?tab=Newest&pagesize=50&page="
     urls = [f"{base_url}{i}" for i in range(1, pages + 1)]
-    
-    questions = []
-    with ThreadPoolExecutor(max_workers=5) as executor:
-        futures = {executor.submit(scrape_page, url): url for url in urls}
-        for future in as_completed(futures):
-            try:
-                page_data = future.result()
-                questions.extend(page_data)
-            except Exception as e:
-                print(f"Erreur sur {futures[future]}: {e}")
-    return questions
+
+    async with aiohttp.ClientSession() as session:
+        tasks = [fetch_page(session, url) for url in urls]
+        results = await asyncio.gather(*tasks)
+    return [q for page in results for q in page]
 
 def run_scraper(pages: int = 5, append: bool = False):
-    """
-    Scrape plusieurs pages et insère dans MongoDB.
-    append=False permet de ne pas garder les données (mode test).
-    """
-    questions = scrape_multiple_pages(pages)
-    print(f"{len(questions)} questions récupérées sur {pages} pages")
+    start = time.time()
+    questions = asyncio.run(scrape_async(pages))
+    print(f"{len(questions)} questions get in {time.time()-start:.2f} secondes")
     insert_questions(questions, COLLECTION, append=append)
 
 if __name__ == "__main__":
-    start_time = time.time()
     run_scraper(pages=5, append=False)
-    end_time = time.time()
-    duration = end_time - start_time
-    print(f"{duration:.2f} secondes de traitement.")
