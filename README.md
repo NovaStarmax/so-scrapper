@@ -9,3 +9,7 @@ uv run python src/scraper.py
 
 ## Mongo DB
 Index unique par URL, s'il y a un doublon, ne l'ajoute pas en double
+
+## Tests
+uv run pytest -m api
+uv run pytest -m scrapper

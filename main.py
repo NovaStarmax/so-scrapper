@@ -1,5 +1,3 @@
-from selenium import webdriver
-from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from src.database import get_collection
 import os

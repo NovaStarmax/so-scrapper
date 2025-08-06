@@ -5,9 +5,8 @@ from database import insert_questions
 
 load_dotenv()
 COLLECTION = os.getenv("COLLECTION_API")
-PAGESIZE = 100
 
-def get_questions_paginated(nb_pages: int = 2):
+def get_newest_datasciences(page_size: int = 100,nb_pages: int = 2):
     url = "https://api.stackexchange.com/2.3/questions"
     questions = []
     for page in range(1, nb_pages + 1):
@@ -15,7 +14,7 @@ def get_questions_paginated(nb_pages: int = 2):
         "order": "desc",
         "sort": "creation",
         "site": "stackoverflow",
-        "pagesize": PAGESIZE,
+        "pagesize": page_size,
         "tagged": "data-science",
         "page": page
         }
@@ -34,7 +33,7 @@ def get_questions_paginated(nb_pages: int = 2):
 
 
 if __name__ == "__main__":
-    test = get_questions_paginated()
+    test = get_newest_datasciences()
     for q in test:
         print(q)
     insert_questions(test, COLLECTION, append=True)
