@@ -16,4 +16,4 @@ if __name__ == "__main__":
     # setup_indexes(COLLECTION_API)
     # setup_indexes(COLLECTION_SCRAPPER)
     synchronize("api.json", get_collection(COLLECTION_API))
-    synchronize("scrapper.json", get_collection(COLLECTION_SCRAPPER))
+    # synchronize("scrapper.json", get_collection(COLLECTION_SCRAPPER))
