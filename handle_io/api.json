@@ -1,0 +1,16 @@
+{
+  "_id": {
+    "$oid": "68930fce29c896dfcac907c6"
+  },
+  "title": "Using qKnowledgeGradient with SaasFullyBayesianSingleTaskGP gives shape mismatch error",
+  "link": "https://stackoverflow.com/questions/79716022/using-qknowledgegradient-with-saasfullybayesiansingletaskgp-gives-shape-mismatch",
+  "tags": [
+    "python",
+    "debugging",
+    "data-science",
+    "bayesian",
+    "botorch"
+  ],
+  "author": "Helena",
+  "date": 1753566287
+}
