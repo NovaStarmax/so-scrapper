@@ -39,4 +39,4 @@ def insert_questions(questions: list, collection: str, append: bool = True):
 
 def get_last_data(collection: str, limit: int=15):
     collection = get_collection(collection)
-    return collection.find().sort([("_id", -1)]).limit(limit)
+    return collection.find()
