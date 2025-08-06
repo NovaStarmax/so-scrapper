@@ -4,7 +4,6 @@ from src.database import get_collection
 def append_new_documents_to_json(json_file: str, collection):
     json_path = os.path.join("handle_io", json_file)
 
-    # Charger le fichier JSON existant (sinon liste vide)
     try:
         with open(json_path, "r", encoding="utf-8") as f:
             existing_data = json.load(f)
@@ -17,17 +16,17 @@ def append_new_documents_to_json(json_file: str, collection):
     for doc in collection.find():
         link = doc.get("link")
         if link and link not in existing_links:
-            doc.pop("_id", None)  # Enlever champ interne Mongo
+            doc.pop("_id", None)
             new_docs.append(doc)
             existing_links.add(link)
 
     if new_docs:
-        print(f"{len(new_docs)} nouveaux documents ajoutés au fichier JSON.")
+        print(f"{len(new_docs)} nouveaux documents ajoutés au fichier {json_file}.")
         existing_data.extend(new_docs)
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(existing_data, f, indent=2, default=str)
     else:
-        print("Aucun nouveau document à ajouter.")
+        print("Aucun nouveau document à ajouter au fichier ", json_file)
 
 def import_data(json_file: str, collection):
     json_path = os.path.join("handle_io", json_file)
@@ -39,7 +38,7 @@ def import_data(json_file: str, collection):
         data = json.load(f)
 
     if not data:
-        print("Le fichier JSON est vide, rien à importer.")
+        print(f"Le fichier {json_file} est vide, rien à importer.")
         return
 
     existing_links = {doc.get("link") for doc in collection.find({}, {"link": 1}) if doc.get("link")}
@@ -55,9 +54,9 @@ def import_data(json_file: str, collection):
 
     if docs_to_insert:
         collection.insert_many(docs_to_insert, ordered=False)
-        print(f"{len(docs_to_insert)} nouveaux documents insérés.")
+        print(f"{len(docs_to_insert)} nouveaux documents insérés dans le fichier ", json_file)
     else:
-        print("Aucun nouveau document à insérer.")
+        print("Aucun nouveau document à insérer dans ", json_file)
 
 def synchronize(json_file: str, collection):
     append_new_documents_to_json(json_file, collection)
