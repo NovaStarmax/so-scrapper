@@ -1,0 +1,2647 @@
+[
+  {
+    "_id": "68930fce29c896dfcac907c6",
+    "title": "Using qKnowledgeGradient with SaasFullyBayesianSingleTaskGP gives shape mismatch error",
+    "link": "https://stackoverflow.com/questions/79716022/using-qknowledgegradient-with-saasfullybayesiansingletaskgp-gives-shape-mismatch",
+    "tags": [
+      "python",
+      "debugging",
+      "data-science",
+      "bayesian",
+      "botorch"
+    ],
+    "author": "Helena",
+    "date": 1753566287
+  },
+  {
+    "_id": "68930fce29c896dfcac907c7",
+    "title": "Stratefied vs Random Splitting on highly categotical datasets",
+    "link": "https://stackoverflow.com/questions/79694850/stratefied-vs-random-splitting-on-highly-categotical-datasets",
+    "tags": [
+      "machine-learning",
+      "split",
+      "data-science"
+    ],
+    "author": "Hasan",
+    "date": 1752010459
+  },
+  {
+    "_id": "68930fce29c896dfcac907c8",
+    "title": "In &quot;statsmodels&quot; Python library, why does z-test not require Population standard deviation?",
+    "link": "https://stackoverflow.com/questions/79693109/in-statsmodels-python-library-why-does-z-test-not-require-population-standard",
+    "tags": [
+      "python",
+      "statistics",
+      "data-science",
+      "statsmodels",
+      "python-hypothesis"
+    ],
+    "author": "Rushank Savant",
+    "date": 1751903158
+  },
+  {
+    "_id": "68930fce29c896dfcac907c9",
+    "title": "Sharing Stored Cache After Reading CSV&#39;s List Using Targets in R",
+    "link": "https://stackoverflow.com/questions/79687409/sharing-stored-cache-after-reading-csvs-list-using-targets-in-r",
+    "tags": [
+      "r",
+      "data-science",
+      "targets-r-package"
+    ],
+    "author": "Stat_machine",
+    "date": 1751458346
+  },
+  {
+    "_id": "68930fce29c896dfcac907ca",
+    "title": "Identify a column cell and perform subtraction with the same column",
+    "link": "https://stackoverflow.com/questions/79684073/identify-a-column-cell-and-perform-subtraction-with-the-same-column",
+    "tags": [
+      "python",
+      "pandas",
+      "data-science"
+    ],
+    "author": "OO7",
+    "date": 1751232383
+  },
+  {
+    "_id": "68930fce29c896dfcac907cb",
+    "title": "Normalizing large free text input data",
+    "link": "https://stackoverflow.com/questions/79681718/normalizing-large-free-text-input-data",
+    "tags": [
+      "python",
+      "machine-learning",
+      "nlp",
+      "data-science",
+      "spell-checking"
+    ],
+    "author": "Hamza B",
+    "date": 1751016774
+  },
+  {
+    "_id": "68930fce29c896dfcac907cc",
+    "title": "Randomized Search CV with Neural Network",
+    "link": "https://stackoverflow.com/questions/79669291/randomized-search-cv-with-neural-network",
+    "tags": [
+      "python",
+      "machine-learning",
+      "deep-learning",
+      "neural-network",
+      "data-science"
+    ],
+    "author": "Gilbert Quarshie",
+    "date": 1750171286
+  },
+  {
+    "_id": "68930fce29c896dfcac907cd",
+    "title": "Pandas dropna(how=&quot;all&quot;, inplace=True) doesn&#39;t work",
+    "link": "https://stackoverflow.com/questions/79665899/pandas-dropnahow-all-inplace-true-doesnt-work",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science"
+    ],
+    "author": "David B.",
+    "date": 1749909829
+  },
+  {
+    "_id": "68930fce29c896dfcac907ce",
+    "title": "How to use custom category names with YOLO-World for zero-shot object detection?",
+    "link": "https://stackoverflow.com/questions/79662036/how-to-use-custom-category-names-with-yolo-world-for-zero-shot-object-detection",
+    "tags": [
+      "pytorch",
+      "artificial-intelligence",
+      "data-science",
+      "object-detection",
+      "yolo"
+    ],
+    "author": "Atypical_Femto281795",
+    "date": 1749646862
+  },
+  {
+    "_id": "68930fce29c896dfcac907cf",
+    "title": "Need Assistance with Fine-tuning my Content Moderation Neural Network with RoBERTa. (Dataset: Jigsaw)",
+    "link": "https://stackoverflow.com/questions/79658001/need-assistance-with-fine-tuning-my-content-moderation-neural-network-with-rober",
+    "tags": [
+      "python",
+      "pytorch",
+      "artificial-intelligence",
+      "data-science"
+    ],
+    "author": "Connor",
+    "date": 1749400310
+  },
+  {
+    "_id": "68930fce29c896dfcac907d0",
+    "title": "Future Looking Target Variables in Light GBM",
+    "link": "https://stackoverflow.com/questions/79657687/future-looking-target-variables-in-light-gbm",
+    "tags": [
+      "machine-learning",
+      "data-science",
+      "xgboost",
+      "algorithmic-trading"
+    ],
+    "author": "AlgoEdge AlgoEdge",
+    "date": 1749373278
+  },
+  {
+    "_id": "68930fce29c896dfcac907d1",
+    "title": "How can I scrape content that&#39;s loaded dynamically on Sainsbury&#39;s product pages?",
+    "link": "https://stackoverflow.com/questions/79656070/how-can-i-scrape-content-thats-loaded-dynamically-on-sainsburys-product-pages",
+    "tags": [
+      "html",
+      "web-scraping",
+      "beautifulsoup",
+      "scrapy",
+      "data-science"
+    ],
+    "author": "Siddharth Gianchandani",
+    "date": 1749220327
+  },
+  {
+    "_id": "68930fce29c896dfcac907d2",
+    "title": "Is it possible to fine-tune an LLM using LoRA on AWS ECS Fargate?",
+    "link": "https://stackoverflow.com/questions/79639986/is-it-possible-to-fine-tune-an-llm-using-lora-on-aws-ecs-fargate",
+    "tags": [
+      "amazon-web-services",
+      "data-science",
+      "large-language-model",
+      "aws-fargate"
+    ],
+    "author": "Sarvesh",
+    "date": 1748330587
+  },
+  {
+    "_id": "68930fce29c896dfcac907d3",
+    "title": "How can I filter out spikes in Kusto Engine data but also create a new baseline value if the spike value persists?",
+    "link": "https://stackoverflow.com/questions/79619491/how-can-i-filter-out-spikes-in-kusto-engine-data-but-also-create-a-new-baseline",
+    "tags": [
+      "statistics",
+      "data-science",
+      "kql",
+      "azure-data-explorer"
+    ],
+    "author": "Daniel Fynes-Clinton",
+    "date": 1747132352
+  },
+  {
+    "_id": "68930fce29c896dfcac907d4",
+    "title": "How do I do a specific aggregation on a table based on row column values on another table (SQL)?",
+    "link": "https://stackoverflow.com/questions/79616449/how-do-i-do-a-specific-aggregation-on-a-table-based-on-row-column-values-on-anot",
+    "tags": [
+      "python",
+      "sql",
+      "data-science",
+      "duckdb",
+      "data-engineering"
+    ],
+    "author": "Mig Rivera Cueva",
+    "date": 1746964313
+  },
+  {
+    "_id": "68930fce29c896dfcac907d5",
+    "title": "Encountering an error when fitting an ensemble stack of classification models to test data in purr::map() function",
+    "link": "https://stackoverflow.com/questions/79609679/encountering-an-error-when-fitting-an-ensemble-stack-of-classification-models-to",
+    "tags": [
+      "machine-learning",
+      "data-science",
+      "tidymodels"
+    ],
+    "author": "Lavacave",
+    "date": 1746580822
+  },
+  {
+    "_id": "68930fce29c896dfcac907d6",
+    "title": "How to set a fixed random state in RandomizedSearchCV?",
+    "link": "https://stackoverflow.com/questions/79603555/how-to-set-a-fixed-random-state-in-randomizedsearchcv",
+    "tags": [
+      "python",
+      "scikit-learn",
+      "data-science"
+    ],
+    "author": "Mithun deb",
+    "date": 1746195585
+  },
+  {
+    "_id": "68930fce29c896dfcac907d7",
+    "title": "Smoothening of data in excel based on certain rules",
+    "link": "https://stackoverflow.com/questions/79588450/smoothening-of-data-in-excel-based-on-certain-rules",
+    "tags": [
+      "excel",
+      "data-science",
+      "non-linear-regression"
+    ],
+    "author": "Jack Mank",
+    "date": 1745406142
+  },
+  {
+    "_id": "68930fce29c896dfcac907d8",
+    "title": "My jupyter Notebook interface is missing &quot;Widget&quot; section while other people have it",
+    "link": "https://stackoverflow.com/questions/79582739/my-jupyter-notebook-interface-is-missing-widget-section-while-other-people-hav",
+    "tags": [
+      "python",
+      "jupyter-notebook",
+      "anaconda",
+      "data-science",
+      "jupyter-lab"
+    ],
+    "author": "Zeeshan Julf",
+    "date": 1745089063
+  },
+  {
+    "_id": "68930fce29c896dfcac907d9",
+    "title": "How to detect and scrape a specific language version of a multilingual publication, if available?",
+    "link": "https://stackoverflow.com/questions/79578485/how-to-detect-and-scrape-a-specific-language-version-of-a-multilingual-publicati",
+    "tags": [
+      "python",
+      "web-scraping",
+      "beautifulsoup",
+      "python-requests",
+      "data-science"
+    ],
+    "author": "Mann Jain",
+    "date": 1744864943
+  },
+  {
+    "_id": "68930fce29c896dfcac907da",
+    "title": "Plotting real-time graphs using Matplotlib does not allow plotting second graph",
+    "link": "https://stackoverflow.com/questions/79570139/plotting-real-time-graphs-using-matplotlib-does-not-allow-plotting-second-graph",
+    "tags": [
+      "python",
+      "matplotlib",
+      "graph",
+      "data-science"
+    ],
+    "author": "A Shrestha",
+    "date": 1744442418
+  },
+  {
+    "_id": "68930fce29c896dfcac907db",
+    "title": "With kotlin-notebook, how do I use DataFrame.readCsv to parse a column of dates formatted mm/dd/yyyy?",
+    "link": "https://stackoverflow.com/questions/79527865/with-kotlin-notebook-how-do-i-use-dataframe-readcsv-to-parse-a-column-of-dates",
+    "tags": [
+      "kotlin",
+      "csv",
+      "data-science",
+      "kotlin-notebook",
+      "kotlin-dataframe"
+    ],
+    "author": "Travis Well",
+    "date": 1742665883
+  },
+  {
+    "_id": "68930fce29c896dfcac907dc",
+    "title": "YOLOv11 Model Converted to TFLite Not Producing Correct Output in TensorFlow",
+    "link": "https://stackoverflow.com/questions/79499322/yolov11-model-converted-to-tflite-not-producing-correct-output-in-tensorflow",
+    "tags": [
+      "python",
+      "tensorflow",
+      "artificial-intelligence",
+      "data-science",
+      "yolo"
+    ],
+    "author": "farid",
+    "date": 1741647254
+  },
+  {
+    "_id": "68930fce29c896dfcac907dd",
+    "title": "in KDB q, how do you write a custom mavg that drops the top 5 and bottom 5 results before doing moving average",
+    "link": "https://stackoverflow.com/questions/79479365/in-kdb-q-how-do-you-write-a-custom-mavg-that-drops-the-top-5-and-bottom-5-resul",
+    "tags": [
+      "data-science",
+      "kdb+",
+      "q",
+      "moving-average"
+    ],
+    "author": "David Moss",
+    "date": 1740931606
+  },
+  {
+    "_id": "68930fce29c896dfcac907de",
+    "title": "Index type 0x73726576 (&quot;vers&quot;) not recognized",
+    "link": "https://stackoverflow.com/questions/79475544/index-type-0x73726576-vers-not-recognized",
+    "tags": [
+      "python",
+      "artificial-intelligence",
+      "data-science",
+      "faiss",
+      "retrieval-augmented-generation"
+    ],
+    "author": "mehmet",
+    "date": 1740746178
+  },
+  {
+    "_id": "68930fce29c896dfcac907df",
+    "title": "MiniBatchKMeans BERTopic not returning topics for half of data",
+    "link": "https://stackoverflow.com/questions/79449168/minibatchkmeans-bertopic-not-returning-topics-for-half-of-data",
+    "tags": [
+      "python",
+      "machine-learning",
+      "nlp",
+      "data-science",
+      "topic-modeling"
+    ],
+    "author": "Matthieu B",
+    "date": 1739900579
+  },
+  {
+    "_id": "68930fce29c896dfcac907e0",
+    "title": "All Hyperparameters being fetched Strings instead of their actual data types",
+    "link": "https://stackoverflow.com/questions/79443953/all-hyperparameters-being-fetched-strings-instead-of-their-actual-data-types",
+    "tags": [
+      "python",
+      "data-science",
+      "fastapi"
+    ],
+    "author": "Apoorva",
+    "date": 1739740727
+  },
+  {
+    "_id": "68930fce29c896dfcac907e1",
+    "title": "Non-Symmetric Calculation for Correlation Matrix in Polars Plugin",
+    "link": "https://stackoverflow.com/questions/79430794/non-symmetric-calculation-for-correlation-matrix-in-polars-plugin",
+    "tags": [
+      "rust",
+      "data-science",
+      "correlation",
+      "python-polars",
+      "polars-plugins"
+    ],
+    "author": "Kevin Li",
+    "date": 1739293685
+  },
+  {
+    "_id": "68930fce29c896dfcac907e2",
+    "title": "Create a graphic for a multiindexed data frame",
+    "link": "https://stackoverflow.com/questions/79373414/create-a-graphic-for-a-multiindexed-data-frame",
+    "tags": [
+      "python",
+      "dataframe",
+      "jupyter-notebook",
+      "seaborn",
+      "data-science"
+    ],
+    "author": "Josekawa",
+    "date": 1737441574
+  },
+  {
+    "_id": "68930fce29c896dfcac907e3",
+    "title": "Re index a list of values in a DataFrame",
+    "link": "https://stackoverflow.com/questions/79366097/re-index-a-list-of-values-in-a-dataframe",
+    "tags": [
+      "python",
+      "pandas",
+      "data-science",
+      "etl"
+    ],
+    "author": "Felipe Lopez",
+    "date": 1737148016
+  },
+  {
+    "_id": "68930fce29c896dfcac907e4",
+    "title": "X (Twitter) webscraping using twikit. How to validate if auth_token expired?",
+    "link": "https://stackoverflow.com/questions/79361278/x-twitter-webscraping-using-twikit-how-to-validate-if-auth-token-expired",
+    "tags": [
+      "python",
+      "web-scraping",
+      "twitter",
+      "data-science"
+    ],
+    "author": "Goat Senpai",
+    "date": 1737024716
+  },
+  {
+    "_id": "68930fce29c896dfcac907e5",
+    "title": "Dask merge two big dataframes that do not fit into memory",
+    "link": "https://stackoverflow.com/questions/79355880/dask-merge-two-big-dataframes-that-do-not-fit-into-memory",
+    "tags": [
+      "python",
+      "pandas",
+      "data-science",
+      "bigdata",
+      "dask"
+    ],
+    "author": "starryn1ght",
+    "date": 1736876325
+  },
+  {
+    "_id": "68930fce29c896dfcac907e6",
+    "title": "Azure Video Indexer API: &quot;USER_NOT_ALLOWED&quot; Error When Checking Blurring Job Status After Completion of Bluring",
+    "link": "https://stackoverflow.com/questions/79317603/azure-video-indexer-api-user-not-allowed-error-when-checking-blurring-job-sta",
+    "tags": [
+      "python",
+      "azure",
+      "data-science",
+      "azure-video-indexer"
+    ],
+    "author": "Einstein EBEREONWU",
+    "date": 1735562013
+  },
+  {
+    "_id": "68930fce29c896dfcac907e7",
+    "title": "h2o Dataframe Causes Function to Hang h2o.remove()",
+    "link": "https://stackoverflow.com/questions/79316006/h2o-dataframe-causes-function-to-hang-h2o-remove",
+    "tags": [
+      "python",
+      "dataframe",
+      "garbage-collection",
+      "data-science",
+      "h2o"
+    ],
+    "author": "Soma Holiday",
+    "date": 1735492387
+  },
+  {
+    "_id": "68930fce29c896dfcac907e8",
+    "title": "ERROR: raise ValueError(f&quot;Shape of passed values is {passed}, indices imply {implied}&quot;) when using GridSearchCV",
+    "link": "https://stackoverflow.com/questions/79314154/error-raise-valueerrorfshape-of-passed-values-is-passed-indices-imply-imp",
+    "tags": [
+      "data-science",
+      "pipeline",
+      "one-hot-encoding",
+      "gridsearchcv"
+    ],
+    "author": "\u0110\u1ed7 Nh\u1eadt Nam",
+    "date": 1735403293
+  },
+  {
+    "_id": "68930fce29c896dfcac907e9",
+    "title": "How to manage memory consumption in deep learning models?",
+    "link": "https://stackoverflow.com/questions/79284426/how-to-manage-memory-consumption-in-deep-learning-models",
+    "tags": [
+      "deep-learning",
+      "pytorch",
+      "data-science",
+      "large-language-model",
+      "transfer-learning"
+    ],
+    "author": "AaKash Singh",
+    "date": 1734346810
+  },
+  {
+    "_id": "68930fce29c896dfcac907ea",
+    "title": "How to encode item features with high number of categories for recommendation",
+    "link": "https://stackoverflow.com/questions/79270683/how-to-encode-item-features-with-high-number-of-categories-for-recommendation",
+    "tags": [
+      "machine-learning",
+      "encoding",
+      "data-science",
+      "categorical-data",
+      "recommendation-engine"
+    ],
+    "author": "Miles-can",
+    "date": 1733899140
+  },
+  {
+    "_id": "68930fce29c896dfcac907eb",
+    "title": "Aggregate function as an argument",
+    "link": "https://stackoverflow.com/questions/79261395/aggregate-function-as-an-argument",
+    "tags": [
+      "python",
+      "pandas",
+      "data-science"
+    ],
+    "author": "Karina Meriina",
+    "date": 1733605131
+  },
+  {
+    "_id": "68930fce29c896dfcac907ec",
+    "title": "problem with &quot;fixedProfile&quot; boundary type for reading from a csv file in openFOAM",
+    "link": "https://stackoverflow.com/questions/79241679/problem-with-fixedprofile-boundary-type-for-reading-from-a-csv-file-in-openfoa",
+    "tags": [
+      "data-science",
+      "openfoam"
+    ],
+    "author": "arezayan",
+    "date": 1733060329
+  },
+  {
+    "_id": "68930fce29c896dfcac907ed",
+    "title": "Error in odbcConnectAccess2007(&quot;BD-Embalses.mdb&quot;). R could not find the function &quot;odbcConnectAccess2007&quot; after installing and loading RODBC",
+    "link": "https://stackoverflow.com/questions/79215418/error-in-odbcconnectaccess2007bd-embalses-mdb-r-could-not-find-the-function",
+    "tags": [
+      "r",
+      "database",
+      "ms-access",
+      "odbc",
+      "data-science"
+    ],
+    "author": "Alberto",
+    "date": 1732286034
+  },
+  {
+    "_id": "68930fce29c896dfcac907ee",
+    "title": "Problem with SHAP plot for multiclass problem",
+    "link": "https://stackoverflow.com/questions/79204051/problem-with-shap-plot-for-multiclass-problem",
+    "tags": [
+      "python",
+      "data-science"
+    ],
+    "author": "Zidan",
+    "date": 1732030316
+  },
+  {
+    "_id": "68930fce29c896dfcac907ef",
+    "title": "Does polars load the entire parquet into the memory if we want to retrive certain column?",
+    "link": "https://stackoverflow.com/questions/79188730/does-polars-load-the-entire-parquet-into-the-memory-if-we-want-to-retrive-certai",
+    "tags": [
+      "python",
+      "dataframe",
+      "data-science",
+      "parquet",
+      "python-polars"
+    ],
+    "author": "Bhaskar Dabhi",
+    "date": 1731587142
+  },
+  {
+    "_id": "68930fce29c896dfcac907f0",
+    "title": "How to use Python to replicate Random Forest Regression prediction using decision paths?",
+    "link": "https://stackoverflow.com/questions/79183884/how-to-use-python-to-replicate-random-forest-regression-prediction-using-decisio",
+    "tags": [
+      "machine-learning",
+      "scikit-learn",
+      "data-science",
+      "random-forest"
+    ],
+    "author": "user24791428",
+    "date": 1731484553
+  },
+  {
+    "_id": "68930fce29c896dfcac907f1",
+    "title": "Invalid value of type &#39;builtins.str&#39; received for the &#39;color&#39; property of scatter.line Received value: &#39;rgba(166, 206, 227, np.float64(1.0))&#39;",
+    "link": "https://stackoverflow.com/questions/79169081/invalid-value-of-type-builtins-str-received-for-the-color-property-of-scatte",
+    "tags": [
+      "python",
+      "data-science",
+      "data-analysis",
+      "valueerror"
+    ],
+    "author": "Kritarth Jaiswal",
+    "date": 1731049215
+  },
+  {
+    "_id": "68930fce29c896dfcac907f2",
+    "title": "Creating Team Data Science Process in ADO",
+    "link": "https://stackoverflow.com/questions/79167418/creating-team-data-science-process-in-ado",
+    "tags": [
+      "azure-devops",
+      "process",
+      "data-science"
+    ],
+    "author": "user1655380",
+    "date": 1730998958
+  },
+  {
+    "_id": "68930fce29c896dfcac907f3",
+    "title": "Handling Multiple Entity Candidates in Short Texts for Entity Linking with SciSpacy",
+    "link": "https://stackoverflow.com/questions/79165649/handling-multiple-entity-candidates-in-short-texts-for-entity-linking-with-scisp",
+    "tags": [
+      "nlp",
+      "data-science",
+      "spacy",
+      "named-entity-recognition",
+      "entity-linking"
+    ],
+    "author": "GrimSqueaker",
+    "date": 1730969534
+  },
+  {
+    "_id": "68930fce29c896dfcac907f4",
+    "title": "Is there a better and effective way to convert a large raster file into a vector point?",
+    "link": "https://stackoverflow.com/questions/79148187/is-there-a-better-and-effective-way-to-convert-a-large-raster-file-into-a-vector",
+    "tags": [
+      "r",
+      "data-science",
+      "spatial",
+      "shapefile",
+      "r-raster"
+    ],
+    "author": "Talles",
+    "date": 1730468379
+  },
+  {
+    "_id": "68930fce29c896dfcac907f5",
+    "title": "Loading Fuzzywuzzy into conda environment on VS Code won&#39;t work",
+    "link": "https://stackoverflow.com/questions/79146128/loading-fuzzywuzzy-into-conda-environment-on-vs-code-wont-work",
+    "tags": [
+      "python",
+      "visual-studio-code",
+      "data-science",
+      "fuzzywuzzy"
+    ],
+    "author": "Joe",
+    "date": 1730403328
+  },
+  {
+    "_id": "68930fce29c896dfcac907f6",
+    "title": "How to use Github Rest API properly",
+    "link": "https://stackoverflow.com/questions/79141121/how-to-use-github-rest-api-properly",
+    "tags": [
+      "github",
+      "web-scraping",
+      "data-science"
+    ],
+    "author": "SWAYAM THAPLIYAL",
+    "date": 1730291349
+  },
+  {
+    "_id": "68930fce29c896dfcac907f7",
+    "title": "Need to fix time zone issue for my Python, Pyspark processing job",
+    "link": "https://stackoverflow.com/questions/79077092/need-to-fix-time-zone-issue-for-my-python-pyspark-processing-job",
+    "tags": [
+      "python",
+      "pyspark",
+      "data-science",
+      "parquet",
+      "data-engineering"
+    ],
+    "author": "Sourabh Bidikar",
+    "date": 1728629835
+  },
+  {
+    "_id": "68930fce29c896dfcac907f8",
+    "title": "`inner_kws` having no effect on Seaborn violin plot",
+    "link": "https://stackoverflow.com/questions/79067886/inner-kws-having-no-effect-on-seaborn-violin-plot",
+    "tags": [
+      "python",
+      "matplotlib",
+      "seaborn",
+      "data-science",
+      "visualization"
+    ],
+    "author": "ewhiting",
+    "date": 1728424167
+  },
+  {
+    "_id": "68930fce29c896dfcac907f9",
+    "title": "AutoTS: Forecast with top3 models instead of best model",
+    "link": "https://stackoverflow.com/questions/79067097/autots-forecast-with-top3-models-instead-of-best-model",
+    "tags": [
+      "python",
+      "time-series",
+      "data-science",
+      "automl"
+    ],
+    "author": "sai akhil",
+    "date": 1728407500
+  },
+  {
+    "_id": "68930fce29c896dfcac907fa",
+    "title": "Check if any value in a Polars DataFrame is True",
+    "link": "https://stackoverflow.com/questions/79061819/check-if-any-value-in-a-polars-dataframe-is-true",
+    "tags": [
+      "python",
+      "dataframe",
+      "data-science",
+      "python-polars"
+    ],
+    "author": "Jerry",
+    "date": 1728301778
+  },
+  {
+    "_id": "68930fce29c896dfcac907fb",
+    "title": "Create Kedro PartitionedDataset of PartitionedDatasets",
+    "link": "https://stackoverflow.com/questions/79044783/create-kedro-partitioneddataset-of-partitioneddatasets",
+    "tags": [
+      "python",
+      "machine-learning",
+      "dataset",
+      "data-science",
+      "kedro"
+    ],
+    "author": "Nicolas Betancourt",
+    "date": 1727817760
+  },
+  {
+    "_id": "68930fce29c896dfcac907fc",
+    "title": "association matrix, nominal-nominal scale, nominal-ratio scale",
+    "link": "https://stackoverflow.com/questions/79031023/association-matrix-nominal-nominal-scale-nominal-ratio-scale",
+    "tags": [
+      "python",
+      "data-science",
+      "correlation",
+      "exploratory-data-analysis"
+    ],
+    "author": "Tamas",
+    "date": 1727434415
+  },
+  {
+    "_id": "68930fce29c896dfcac907fd",
+    "title": "Techniques for adaptive prediction with feedback in an evolving feature space",
+    "link": "https://stackoverflow.com/questions/79022083/techniques-for-adaptive-prediction-with-feedback-in-an-evolving-feature-space",
+    "tags": [
+      "machine-learning",
+      "regression",
+      "data-science",
+      "reinforcement-learning"
+    ],
+    "author": "Detuned",
+    "date": 1727256243
+  },
+  {
+    "_id": "68930fce29c896dfcac907fe",
+    "title": "Selecting multiple columns (`MultiIndex` based) within a `DataFrameGroupBy`",
+    "link": "https://stackoverflow.com/questions/79003349/selecting-multiple-columns-multiindex-based-within-a-dataframegroupby",
+    "tags": [
+      "python",
+      "pandas",
+      "group-by",
+      "data-science"
+    ],
+    "author": "Manu",
+    "date": 1726759857
+  },
+  {
+    "_id": "68930fce29c896dfcac907ff",
+    "title": "Input file specified two times",
+    "link": "https://stackoverflow.com/questions/79003095/input-file-specified-two-times",
+    "tags": [
+      "python",
+      "shell",
+      "jupyter-notebook",
+      "data-science",
+      "data-preprocessing"
+    ],
+    "author": "md Almus Fuad",
+    "date": 1726756709
+  },
+  {
+    "_id": "68930fce29c896dfcac90800",
+    "title": "How can I shift a column in a dataframe x times into an array, apply a function, and create a new column?",
+    "link": "https://stackoverflow.com/questions/78985850/how-can-i-shift-a-column-in-a-dataframe-x-times-into-an-array-apply-a-function",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "performance",
+      "data-science"
+    ],
+    "author": "GrizzlyEnglish",
+    "date": 1726337629
+  },
+  {
+    "_id": "68930fce29c896dfcac90801",
+    "title": "Neo4j error while creating graph database",
+    "link": "https://stackoverflow.com/questions/78941026/neo4j-error-while-creating-graph-database",
+    "tags": [
+      "python",
+      "neo4j",
+      "data-science",
+      "knowledge-graph",
+      "rag"
+    ],
+    "author": "user21453188",
+    "date": 1725288227
+  },
+  {
+    "_id": "68930fce29c896dfcac90802",
+    "title": "Count and groupby a specfic value",
+    "link": "https://stackoverflow.com/questions/78931722/count-and-groupby-a-specfic-value",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "group-by",
+      "data-science"
+    ],
+    "author": "Leyla Elkhamlichi",
+    "date": 1725016758
+  },
+  {
+    "_id": "68930fce29c896dfcac90803",
+    "title": "Confusion Matrix in SQL",
+    "link": "https://stackoverflow.com/questions/78919810/confusion-matrix-in-sql",
+    "tags": [
+      "sql",
+      "postgresql",
+      "data-science",
+      "confusion-matrix"
+    ],
+    "author": "v_kumar",
+    "date": 1724774486
+  },
+  {
+    "_id": "68930fce29c896dfcac90804",
+    "title": "the data augmentation doesn&#39;t work properly",
+    "link": "https://stackoverflow.com/questions/78914899/the-data-augmentation-doesnt-work-properly",
+    "tags": [
+      "python",
+      "deep-learning",
+      "data-science",
+      "data-augmentation",
+      "image-augmentation"
+    ],
+    "author": "dhruv Gangwani",
+    "date": 1724681658
+  },
+  {
+    "_id": "68930fce29c896dfcac90805",
+    "title": "Adapting this formula to Python Polars, stuck on Euluers Number and Exponent",
+    "link": "https://stackoverflow.com/questions/78897674/adapting-this-formula-to-python-polars-stuck-on-euluers-number-and-exponent",
+    "tags": [
+      "python",
+      "data-science",
+      "python-polars"
+    ],
+    "author": "hackpoetic",
+    "date": 1724252446
+  },
+  {
+    "_id": "68930fce29c896dfcac90806",
+    "title": "Wierd chart layout with pandas/matplotlib line chart",
+    "link": "https://stackoverflow.com/questions/78893764/wierd-chart-layout-with-pandas-matplotlib-line-chart",
+    "tags": [
+      "python",
+      "pandas",
+      "matplotlib",
+      "data-science"
+    ],
+    "author": "Mahesh",
+    "date": 1724175453
+  },
+  {
+    "_id": "68930fce29c896dfcac90807",
+    "title": "Assertion Error: 4 columns passed, passed data had 3 columns. Python/ipynb",
+    "link": "https://stackoverflow.com/questions/78882452/assertion-error-4-columns-passed-passed-data-had-3-columns-python-ipynb",
+    "tags": [
+      "python",
+      "error-handling",
+      "html-table",
+      "data-science"
+    ],
+    "author": "Chance Hainey",
+    "date": 1723904515
+  },
+  {
+    "_id": "68930fce29c896dfcac90808",
+    "title": "Plotting a 4D graph where X,Y,Z are independent and the fourth dimension is a heatmap that interpolates between points",
+    "link": "https://stackoverflow.com/questions/78882225/plotting-a-4d-graph-where-x-y-z-are-independent-and-the-fourth-dimension-is-a-he",
+    "tags": [
+      "python",
+      "matplotlib",
+      "data-science",
+      "interpolation",
+      "heatmap"
+    ],
+    "author": "IrwinJ",
+    "date": 1723897937
+  },
+  {
+    "_id": "68930fce29c896dfcac90809",
+    "title": "Nifty50 data science project in python Error occuring KeyError: &#39;Date&#39;",
+    "link": "https://stackoverflow.com/questions/78879312/nifty50-data-science-project-in-python-error-occuring-keyerror-date",
+    "tags": [
+      "python",
+      "database",
+      "deep-learning",
+      "data-science",
+      "project"
+    ],
+    "author": "Vansh Chauhan",
+    "date": 1723814133
+  },
+  {
+    "_id": "68930fce29c896dfcac9080a",
+    "title": "Error get_features_name_out in getting back the feature name",
+    "link": "https://stackoverflow.com/questions/78874263/error-get-features-name-out-in-getting-back-the-feature-name",
+    "tags": [
+      "python",
+      "pandas",
+      "scikit-learn",
+      "data-science"
+    ],
+    "author": "statsbeginner",
+    "date": 1723710687
+  },
+  {
+    "_id": "68930fce29c896dfcac9080b",
+    "title": "How to deal with multiple dictionary entries that have identical keys but different values (json returned from API)",
+    "link": "https://stackoverflow.com/questions/78872379/how-to-deal-with-multiple-dictionary-entries-that-have-identical-keys-but-differ",
+    "tags": [
+      "python",
+      "json",
+      "data-science"
+    ],
+    "author": "Henrique R.",
+    "date": 1723658641
+  },
+  {
+    "_id": "68930fce29c896dfcac9080c",
+    "title": "Why is it that calling standard sum on a numpy array produces a different result than numpy.sum?",
+    "link": "https://stackoverflow.com/questions/78869326/why-is-it-that-calling-standard-sum-on-a-numpy-array-produces-a-different-result",
+    "tags": [
+      "python",
+      "numpy",
+      "data-science"
+    ],
+    "author": "Liam385",
+    "date": 1723614928
+  },
+  {
+    "_id": "68930fce29c896dfcac9080d",
+    "title": "R: monte carlo binomial gambling simulation",
+    "link": "https://stackoverflow.com/questions/78868809/r-monte-carlo-binomial-gambling-simulation",
+    "tags": [
+      "r",
+      "statistics",
+      "data-science",
+      "montecarlo"
+    ],
+    "author": "Lavacave",
+    "date": 1723599174
+  },
+  {
+    "_id": "68930fce29c896dfcac9080e",
+    "title": "Finding maximum of multiple arrays in respect to their index, that can vary",
+    "link": "https://stackoverflow.com/questions/78862342/finding-maximum-of-multiple-arrays-in-respect-to-their-index-that-can-vary",
+    "tags": [
+      "pandas",
+      "numpy",
+      "data-science",
+      "scientific-computing"
+    ],
+    "author": "Vybornak2",
+    "date": 1723474676
+  },
+  {
+    "_id": "68930fce29c896dfcac9080f",
+    "title": "Getting ValueError: All arrays must be of the same length",
+    "link": "https://stackoverflow.com/questions/78858321/getting-valueerror-all-arrays-must-be-of-the-same-length",
+    "tags": [
+      "python",
+      "python-3.x",
+      "machine-learning",
+      "regression",
+      "data-science"
+    ],
+    "author": "SirTee12",
+    "date": 1723379260
+  },
+  {
+    "_id": "68930fce29c896dfcac90810",
+    "title": "How can I replace null values in polars with a prefix with ascending numbers?",
+    "link": "https://stackoverflow.com/questions/78854478/how-can-i-replace-null-values-in-polars-with-a-prefix-with-ascending-numbers",
+    "tags": [
+      "python",
+      "dataframe",
+      "data-science",
+      "data-cleaning",
+      "python-polars"
+    ],
+    "author": "Dante",
+    "date": 1723234304
+  },
+  {
+    "_id": "68930fce29c896dfcac90811",
+    "title": "How to use SDMX to get M2 money data from ECB?",
+    "link": "https://stackoverflow.com/questions/78774766/how-to-use-sdmx-to-get-m2-money-data-from-ecb",
+    "tags": [
+      "dataframe",
+      "data-science",
+      "sdmx"
+    ],
+    "author": "2 pieare",
+    "date": 1721552555
+  },
+  {
+    "_id": "68930fce29c896dfcac90812",
+    "title": "In jupyter notebok title of graph not showing.Why no title is there in the graph?",
+    "link": "https://stackoverflow.com/questions/78774659/in-jupyter-notebok-title-of-graph-not-showing-why-no-title-is-there-in-the-graph",
+    "tags": [
+      "python",
+      "jupyter-notebook",
+      "seaborn",
+      "data-science",
+      "countplot"
+    ],
+    "author": "noobcoder24",
+    "date": 1721548998
+  },
+  {
+    "_id": "68930fce29c896dfcac90813",
+    "title": "Stuck in handling incorrect input data on web app for model training",
+    "link": "https://stackoverflow.com/questions/78763624/stuck-in-handling-incorrect-input-data-on-web-app-for-model-training",
+    "tags": [
+      "python",
+      "machine-learning",
+      "flask",
+      "exception",
+      "data-science"
+    ],
+    "author": "Harshit Kedia",
+    "date": 1721296096
+  },
+  {
+    "_id": "68930fce29c896dfcac90814",
+    "title": "Trying to scavanage data using Selenium but save button isn&#39;t working",
+    "link": "https://stackoverflow.com/questions/78757629/trying-to-scavanage-data-using-selenium-but-save-button-isnt-working",
+    "tags": [
+      "selenium-webdriver",
+      "data-science",
+      "selenium-ide",
+      "data-science-experience"
+    ],
+    "author": "Anurag Sinha",
+    "date": 1721190348
+  },
+  {
+    "_id": "68930fce29c896dfcac90815",
+    "title": "TaskRun failed to finish due to an error for Coretex BioInformatics workflow",
+    "link": "https://stackoverflow.com/questions/78750613/taskrun-failed-to-finish-due-to-an-error-for-coretex-bioinformatics-workflow",
+    "tags": [
+      "r",
+      "data-science",
+      "bioinformatics",
+      "mlops"
+    ],
+    "author": "axcac",
+    "date": 1721056229
+  },
+  {
+    "_id": "68930fce29c896dfcac90816",
+    "title": "How to optimise hyperparameterss for RandomForestClassifier in Python for large datasets?",
+    "link": "https://stackoverflow.com/questions/78731369/how-to-optimise-hyperparameterss-for-randomforestclassifier-in-python-for-large",
+    "tags": [
+      "scikit-learn",
+      "dataset",
+      "data-science",
+      "random-forest"
+    ],
+    "author": "kiruthikpurpose",
+    "date": 1720624011
+  },
+  {
+    "_id": "68930fce29c896dfcac90817",
+    "title": "Issue with H3: Uber\u2019s Hexagonal Hierarchical Spatial Index",
+    "link": "https://stackoverflow.com/questions/78719884/issue-with-h3-uber-s-hexagonal-hierarchical-spatial-index",
+    "tags": [
+      "database",
+      "data-science",
+      "geospatial",
+      "uber-api",
+      "h3"
+    ],
+    "author": "Aditya Panditrao",
+    "date": 1720428286
+  },
+  {
+    "_id": "68930fce29c896dfcac90818",
+    "title": "How to combine 3 annotated datasets into one file for further processing?",
+    "link": "https://stackoverflow.com/questions/78705509/how-to-combine-3-annotated-datasets-into-one-file-for-further-processing",
+    "tags": [
+      "python",
+      "sql",
+      "data-science",
+      "data-annotations",
+      "data-preprocessing"
+    ],
+    "author": "ZAIN UL ABIDIN QADRI",
+    "date": 1720076701
+  },
+  {
+    "_id": "68930fce29c896dfcac90819",
+    "title": "Selenium doesn&#39;t find the popup button",
+    "link": "https://stackoverflow.com/questions/78689186/selenium-doesnt-find-the-popup-button",
+    "tags": [
+      "python",
+      "selenium-webdriver",
+      "data-science",
+      "html-parsing"
+    ],
+    "author": "Alexei Rozhenko",
+    "date": 1719765407
+  },
+  {
+    "_id": "68930fce29c896dfcac9081a",
+    "title": "LLama3 model fine tunning issue",
+    "link": "https://stackoverflow.com/questions/78687183/llama3-model-fine-tunning-issue",
+    "tags": [
+      "python-3.x",
+      "data-science",
+      "llama"
+    ],
+    "author": "Mkp",
+    "date": 1719699087
+  },
+  {
+    "_id": "68930fce29c896dfcac9081b",
+    "title": "How to resolve TypeError: &#39;numpy.float64&#39; object is not callable when calculating r2_score?",
+    "link": "https://stackoverflow.com/questions/78685188/how-to-resolve-typeerror-numpy-float64-object-is-not-callable-when-calculatin",
+    "tags": [
+      "python",
+      "scikit-learn",
+      "regression",
+      "data-science"
+    ],
+    "author": "Ayush Surve",
+    "date": 1719640960
+  },
+  {
+    "_id": "68930fce29c896dfcac9081c",
+    "title": "When I use Filtered_tg in R. The console show this error :- Error in arrange(filtered_tg, len) : could not find function &quot;arrange&quot;",
+    "link": "https://stackoverflow.com/questions/76859900/when-i-use-filtered-tg-in-r-the-console-show-this-error-error-in-arrangefil",
+    "tags": [
+      "google-analytics",
+      "data-science",
+      "data-analysis"
+    ],
+    "author": "Ankit Subedi",
+    "date": 1691500207
+  },
+  {
+    "_id": "68930fce29c896dfcac9081d",
+    "title": "How can we map catagorical codes in a dataframe back to the original data points in the original dataframe?",
+    "link": "https://stackoverflow.com/questions/76844343/how-can-we-map-catagorical-codes-in-a-dataframe-back-to-the-original-data-points",
+    "tags": [
+      "python",
+      "python-3.x",
+      "dataframe",
+      "machine-learning",
+      "data-science"
+    ],
+    "author": "ASH",
+    "date": 1691293502
+  },
+  {
+    "_id": "68930fce29c896dfcac9081e",
+    "title": "I&#39;m getting an import error with ydata-profiling-4.4.0: `BaseSettings` has been moved to the `pydantic-settings` package",
+    "link": "https://stackoverflow.com/questions/76844229/im-getting-an-import-error-with-ydata-profiling-4-4-0-basesettings-has-been",
+    "tags": [
+      "python",
+      "pandas",
+      "machine-learning",
+      "data-science"
+    ],
+    "author": "Atharva Rao",
+    "date": 1691289156
+  },
+  {
+    "_id": "68930fce29c896dfcac9081f",
+    "title": "Deploy chatbot to AzureFunction",
+    "link": "https://stackoverflow.com/questions/76836255/deploy-chatbot-to-azurefunction",
+    "tags": [
+      "python",
+      "azure",
+      "azure-functions",
+      "data-science",
+      "chatbot"
+    ],
+    "author": "H3MII",
+    "date": 1691154680
+  },
+  {
+    "_id": "68930fce29c896dfcac90820",
+    "title": "Question about the graphs of marginal effect in interaction terms and its hypothesis test in ggpredict()",
+    "link": "https://stackoverflow.com/questions/76833379/question-about-the-graphs-of-marginal-effect-in-interaction-terms-and-its-hypoth",
+    "tags": [
+      "r",
+      "data-science",
+      "visualization",
+      "margin",
+      "interaction"
+    ],
+    "author": "Ryan X",
+    "date": 1691129721
+  },
+  {
+    "_id": "68930fce29c896dfcac90821",
+    "title": "in python pandas data frame shift values from Category to Rating, Rating to Reviews, ............ ,Current Ver to Android Ver",
+    "link": "https://stackoverflow.com/questions/76828158/in-python-pandas-data-frame-shift-values-from-category-to-rating-rating-to-revi",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science"
+    ],
+    "author": "Navaneeth O M",
+    "date": 1691066454
+  },
+  {
+    "_id": "68930fce29c896dfcac90822",
+    "title": "Microsoft Graph api connection",
+    "link": "https://stackoverflow.com/questions/76826329/microsoft-graph-api-connection",
+    "tags": [
+      "outlook",
+      "microsoft-graph-api",
+      "data-science"
+    ],
+    "author": "Rupendra Siva Prasad Akurathi",
+    "date": 1691052125
+  },
+  {
+    "_id": "68930fce29c896dfcac90823",
+    "title": "How to change a string value with comma (343,543) to int in a dataframe with Python",
+    "link": "https://stackoverflow.com/questions/76824984/how-to-change-a-string-value-with-comma-343-543-to-int-in-a-dataframe-with-pyt",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science",
+      "data-analysis"
+    ],
+    "author": "U\u011fur Fatih &#199;oku&#231;kun",
+    "date": 1691038842
+  },
+  {
+    "_id": "68930fce29c896dfcac90824",
+    "title": "Is there a way to generate a completely new text column for a pandas dataframe?",
+    "link": "https://stackoverflow.com/questions/76824269/is-there-a-way-to-generate-a-completely-new-text-column-for-a-pandas-dataframe",
+    "tags": [
+      "python",
+      "pandas",
+      "nlp",
+      "data-science",
+      "huggingface-transformers"
+    ],
+    "author": "Hedi Amor",
+    "date": 1691023279
+  },
+  {
+    "_id": "68930fce29c896dfcac90825",
+    "title": "How is this plot plotted?",
+    "link": "https://stackoverflow.com/questions/76813915/how-is-this-plot-plotted",
+    "tags": [
+      "python",
+      "matplotlib",
+      "plot",
+      "data-science"
+    ],
+    "author": "dmag",
+    "date": 1690910281
+  },
+  {
+    "_id": "68930fce29c896dfcac90826",
+    "title": "How to download XLSX file from DOI link?",
+    "link": "https://stackoverflow.com/questions/76812704/how-to-download-xlsx-file-from-doi-link",
+    "tags": [
+      "python",
+      "data-science",
+      "doi"
+    ],
+    "author": "Galen",
+    "date": 1690900376
+  },
+  {
+    "_id": "68930fce29c896dfcac90827",
+    "title": "Python 3 ipykernel hangs on a particular line of code",
+    "link": "https://stackoverflow.com/questions/76799005/python-3-ipykernel-hangs-on-a-particular-line-of-code",
+    "tags": [
+      "jupyter-notebook",
+      "data-science",
+      "jupyter-irkernel"
+    ],
+    "author": "Jamilu",
+    "date": 1690739425
+  },
+  {
+    "_id": "68930fce29c896dfcac90828",
+    "title": "How to perform Time series forecasting in short Interval of time data (only 8 years are given) for multiple locations?",
+    "link": "https://stackoverflow.com/questions/76797633/how-to-perform-time-series-forecasting-in-short-interval-of-time-data-only-8-ye",
+    "tags": [
+      "python",
+      "machine-learning",
+      "time-series",
+      "data-science",
+      "forecasting"
+    ],
+    "author": "Harsh Walia",
+    "date": 1690717947
+  },
+  {
+    "_id": "68930fce29c896dfcac90829",
+    "title": "My test and train data has the same number of columns but OneHotEncoder creates different size of matrixes",
+    "link": "https://stackoverflow.com/questions/76781507/my-test-and-train-data-has-the-same-number-of-columns-but-onehotencoder-creates",
+    "tags": [
+      "pandas",
+      "machine-learning",
+      "scikit-learn",
+      "data-science",
+      "random-forest"
+    ],
+    "author": "santiaqool",
+    "date": 1690473257
+  },
+  {
+    "_id": "68930fce29c896dfcac9082a",
+    "title": "Is there anything to increase the accuracy of this predictive model?",
+    "link": "https://stackoverflow.com/questions/76763488/is-there-anything-to-increase-the-accuracy-of-this-predictive-model",
+    "tags": [
+      "python",
+      "machine-learning",
+      "deep-learning",
+      "data-science"
+    ],
+    "author": "naivebiologist",
+    "date": 1690293498
+  },
+  {
+    "_id": "68930fce29c896dfcac9082b",
+    "title": "How to simulate ARIMA model data in python? using statsmodels.tsa.arima.model.ARIMA.simulate()",
+    "link": "https://stackoverflow.com/questions/76762396/how-to-simulate-arima-model-data-in-python-using-statsmodels-tsa-arima-model-ar",
+    "tags": [
+      "python",
+      "data-science",
+      "statsmodels",
+      "arima"
+    ],
+    "author": "Kumara Guru K R N",
+    "date": 1690285664
+  },
+  {
+    "_id": "68930fce29c896dfcac9082c",
+    "title": "How to allow user to reorder list when presented with one?",
+    "link": "https://stackoverflow.com/questions/76759294/how-to-allow-user-to-reorder-list-when-presented-with-one",
+    "tags": [
+      "python",
+      "pandas",
+      "sorting",
+      "for-loop",
+      "data-science"
+    ],
+    "author": "datagolfer",
+    "date": 1690256250
+  },
+  {
+    "_id": "68930fce29c896dfcac9082d",
+    "title": "Creating Dynamic Folders based on Filename in Azure Data Factory DataFlow",
+    "link": "https://stackoverflow.com/questions/76753693/creating-dynamic-folders-based-on-filename-in-azure-data-factory-dataflow",
+    "tags": [
+      "azure",
+      "data-science",
+      "azure-data-factory"
+    ],
+    "author": "Fasan K",
+    "date": 1690195398
+  },
+  {
+    "_id": "68930fce29c896dfcac9082e",
+    "title": "Folium popup not working when rendering HTML",
+    "link": "https://stackoverflow.com/questions/76752259/folium-popup-not-working-when-rendering-html",
+    "tags": [
+      "python",
+      "data-science",
+      "folium"
+    ],
+    "author": "Ocean Vue",
+    "date": 1690183853
+  },
+  {
+    "_id": "68930fce29c896dfcac9082f",
+    "title": "Matplotlib: Plotting all columns on the x-axis and values on the y-axis grouped by a third variable",
+    "link": "https://stackoverflow.com/questions/76733035/matplotlib-plotting-all-columns-on-the-x-axis-and-values-on-the-y-axis-grouped",
+    "tags": [
+      "python",
+      "pandas",
+      "matplotlib",
+      "plot",
+      "data-science"
+    ],
+    "author": "sharkbirth",
+    "date": 1689880041
+  },
+  {
+    "_id": "68930fce29c896dfcac90830",
+    "title": "Why can\u2019t I use df.loc() within the drop() method?",
+    "link": "https://stackoverflow.com/questions/76718445/why-can-t-i-use-df-loc-within-the-drop-method",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science"
+    ],
+    "author": "Donna_Tartare",
+    "date": 1689747360
+  },
+  {
+    "_id": "68930fce29c896dfcac90831",
+    "title": "How to visualize the correlation of columns into regression alike charts?",
+    "link": "https://stackoverflow.com/questions/76712627/how-to-visualize-the-correlation-of-columns-into-regression-alike-charts",
+    "tags": [
+      "python",
+      "python-3.x",
+      "regression",
+      "seaborn",
+      "data-science"
+    ],
+    "author": "Yudha Hartono",
+    "date": 1689682159
+  },
+  {
+    "_id": "68930fce29c896dfcac90832",
+    "title": "Python / Pandas: Shift entities of a row to the right (end)",
+    "link": "https://stackoverflow.com/questions/76704112/python-pandas-shift-entities-of-a-row-to-the-right-end",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science",
+      "shift"
+    ],
+    "author": "dark water",
+    "date": 1689594214
+  },
+  {
+    "_id": "68930fce29c896dfcac90833",
+    "title": "How to calculate time differences without a date and only with times?",
+    "link": "https://stackoverflow.com/questions/76689953/how-to-calculate-time-differences-without-a-date-and-only-with-times",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "datetime",
+      "data-science"
+    ],
+    "author": "deputy-chief-hardy",
+    "date": 1689355371
+  },
+  {
+    "_id": "68930fce29c896dfcac90834",
+    "title": "Why Azure Data Factory DataFlow is only processing one line per file?",
+    "link": "https://stackoverflow.com/questions/76686845/why-azure-data-factory-dataflow-is-only-processing-one-line-per-file",
+    "tags": [
+      "azure",
+      "data-science",
+      "azure-data-factory"
+    ],
+    "author": "Fasan K",
+    "date": 1689330588
+  },
+  {
+    "_id": "68930fce29c896dfcac90835",
+    "title": "How to access child class from parent class in web scraping using python",
+    "link": "https://stackoverflow.com/questions/76685550/how-to-access-child-class-from-parent-class-in-web-scraping-using-python",
+    "tags": [
+      "python",
+      "web-scraping",
+      "beautifulsoup",
+      "data-science"
+    ],
+    "author": "Tanishqa Garg",
+    "date": 1689319668
+  },
+  {
+    "_id": "68930fce29c896dfcac90836",
+    "title": "Segmentation with piecewise linear regression",
+    "link": "https://stackoverflow.com/questions/76674414/segmentation-with-piecewise-linear-regression",
+    "tags": [
+      "python",
+      "data-science",
+      "breakpoints",
+      "subsequence"
+    ],
+    "author": "Mathieu",
+    "date": 1689195619
+  },
+  {
+    "_id": "68930fce29c896dfcac90837",
+    "title": "Add a column in R and compute difference time",
+    "link": "https://stackoverflow.com/questions/76673270/add-a-column-in-r-and-compute-difference-time",
+    "tags": [
+      "r",
+      "statistics",
+      "data-science"
+    ],
+    "author": "sara ",
+    "date": 1689184382
+  },
+  {
+    "_id": "68930fce29c896dfcac90838",
+    "title": "Fill NaN values in Polars using a custom-defined function for a specific column",
+    "link": "https://stackoverflow.com/questions/76667920/fill-nan-values-in-polars-using-a-custom-defined-function-for-a-specific-column",
+    "tags": [
+      "python",
+      "data-science",
+      "python-polars"
+    ],
+    "author": "Honio",
+    "date": 1689145543
+  },
+  {
+    "_id": "68930fce29c896dfcac90839",
+    "title": "How to simplify &quot;Percentage for each class&quot;",
+    "link": "https://stackoverflow.com/questions/76666696/how-to-simplify-percentage-for-each-class",
+    "tags": [
+      "pandas",
+      "dataframe",
+      "numpy",
+      "data-science"
+    ],
+    "author": "Josue Medina",
+    "date": 1689126650
+  },
+  {
+    "_id": "68930fce29c896dfcac9083a",
+    "title": "How to simplify &quot;Get mean ages for women of every class&quot;",
+    "link": "https://stackoverflow.com/questions/76666416/how-to-simplify-get-mean-ages-for-women-of-every-class",
+    "tags": [
+      "pandas",
+      "dataframe",
+      "numpy",
+      "data-science"
+    ],
+    "author": "Josue Medina",
+    "date": 1689119623
+  },
+  {
+    "_id": "68930fce29c896dfcac9083b",
+    "title": "Extracting/Removing/skipping Free Text from Json Files in Azure Data Factory",
+    "link": "https://stackoverflow.com/questions/76660184/extracting-removing-skipping-free-text-from-json-files-in-azure-data-factory",
+    "tags": [
+      "azure",
+      "data-science",
+      "azure-data-factory"
+    ],
+    "author": "Fasan K",
+    "date": 1689065374
+  },
+  {
+    "_id": "68930fce29c896dfcac9083c",
+    "title": "how can i add custom prompt template on ConversationalRetrievalChain",
+    "link": "https://stackoverflow.com/questions/76653061/how-can-i-add-custom-prompt-template-on-conversationalretrievalchain",
+    "tags": [
+      "data-science",
+      "openai-api",
+      "langchain"
+    ],
+    "author": "Abhiram T Babu",
+    "date": 1688986842
+  },
+  {
+    "_id": "68930fce29c896dfcac9083d",
+    "title": "Difference between predict() and predict_proba() functions in scikit learn",
+    "link": "https://stackoverflow.com/questions/76650079/difference-between-predict-and-predict-proba-functions-in-scikit-learn",
+    "tags": [
+      "python",
+      "scikit-learn",
+      "statistics",
+      "data-science"
+    ],
+    "author": "EduMinsky",
+    "date": 1688949463
+  },
+  {
+    "_id": "68930fce29c896dfcac9083e",
+    "title": "Using linear optimisation, how do I minimize the Total Cost in a dataframe",
+    "link": "https://stackoverflow.com/questions/76647505/using-linear-optimisation-how-do-i-minimize-the-total-cost-in-a-dataframe",
+    "tags": [
+      "python",
+      "pandas",
+      "data-science",
+      "linear-programming"
+    ],
+    "author": "t24opb",
+    "date": 1688906083
+  },
+  {
+    "_id": "68930fce29c896dfcac9083f",
+    "title": "8bit Quantization: Prediction outputs uncorrelated to underlying model",
+    "link": "https://stackoverflow.com/questions/76645320/8bit-quantization-prediction-outputs-uncorrelated-to-underlying-model",
+    "tags": [
+      "tensorflow",
+      "data-science",
+      "quantization",
+      "tflite",
+      "8-bit"
+    ],
+    "author": "Bemz",
+    "date": 1688859057
+  },
+  {
+    "_id": "68930fce29c896dfcac90840",
+    "title": "How to merge columns with same value and add values together from different columns using python",
+    "link": "https://stackoverflow.com/questions/76644039/how-to-merge-columns-with-same-value-and-add-values-together-from-different-colu",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science"
+    ],
+    "author": "zhe",
+    "date": 1688835463
+  },
+  {
+    "_id": "68930fce29c896dfcac90841",
+    "title": "There is a problem in the encoding the string variable to float or integer in sklearn during pipeline building",
+    "link": "https://stackoverflow.com/questions/76643281/there-is-a-problem-in-the-encoding-the-string-variable-to-float-or-integer-in-sk",
+    "tags": [
+      "machine-learning",
+      "scikit-learn",
+      "data-science",
+      "pipeline",
+      "one-hot-encoding"
+    ],
+    "author": "Suraj Singh",
+    "date": 1688824440
+  },
+  {
+    "_id": "68930fce29c896dfcac90842",
+    "title": "Problem with login to a journal website with selenium",
+    "link": "https://stackoverflow.com/questions/76642129/problem-with-login-to-a-journal-website-with-selenium",
+    "tags": [
+      "python",
+      "selenium-webdriver",
+      "web-scraping",
+      "data-science"
+    ],
+    "author": "Ido Kobi",
+    "date": 1688806100
+  },
+  {
+    "_id": "68930fce29c896dfcac90843",
+    "title": "cookies and verification problem in scraping",
+    "link": "https://stackoverflow.com/questions/76640223/cookies-and-verification-problem-in-scraping",
+    "tags": [
+      "python",
+      "selenium-webdriver",
+      "data-science",
+      "screen-scraping",
+      "data-mining"
+    ],
+    "author": "Ido Kobi",
+    "date": 1688763727
+  },
+  {
+    "_id": "68930fce29c896dfcac90844",
+    "title": "How to remove specific fields from log files before transferring using Azure Data Factory Data Flows",
+    "link": "https://stackoverflow.com/questions/76637605/how-to-remove-specific-fields-from-log-files-before-transferring-using-azure-dat",
+    "tags": [
+      "azure",
+      "data-science",
+      "azure-data-factory"
+    ],
+    "author": "Fasan K",
+    "date": 1688738149
+  },
+  {
+    "_id": "68930fce29c896dfcac90845",
+    "title": "How to convert Pandas Dataframe to the shape of a correlation matrix",
+    "link": "https://stackoverflow.com/questions/76632984/how-to-convert-pandas-dataframe-to-the-shape-of-a-correlation-matrix",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science",
+      "correlation"
+    ],
+    "author": "yeet_man",
+    "date": 1688684203
+  },
+  {
+    "_id": "68930fce29c896dfcac90846",
+    "title": "Clicking a link with selenium library",
+    "link": "https://stackoverflow.com/questions/76632422/clicking-a-link-with-selenium-library",
+    "tags": [
+      "python",
+      "selenium-webdriver",
+      "web-scraping",
+      "data-science",
+      "data-mining"
+    ],
+    "author": "Ido Kobi",
+    "date": 1688676124
+  },
+  {
+    "_id": "68930fce29c896dfcac90847",
+    "title": "scraping data from articles(author name)",
+    "link": "https://stackoverflow.com/questions/76631921/scraping-data-from-articlesauthor-name",
+    "tags": [
+      "python",
+      "selenium-chromedriver",
+      "data-science",
+      "screen-scraping"
+    ],
+    "author": "Ido Kobi",
+    "date": 1688670952
+  },
+  {
+    "_id": "68930fce29c896dfcac90848",
+    "title": "How to avoid NaN values when I use frame[&#39;Colum&#39;].map(dict)",
+    "link": "https://stackoverflow.com/questions/76624813/how-to-avoid-nan-values-when-i-use-framecolum-mapdict",
+    "tags": [
+      "pandas",
+      "dataframe",
+      "numpy",
+      "data-science"
+    ],
+    "author": "Josue Medina",
+    "date": 1688603449
+  },
+  {
+    "_id": "68930fce29c896dfcac90849",
+    "title": "combine 2 df with a for loop to make projections",
+    "link": "https://stackoverflow.com/questions/76621713/combine-2-df-with-a-for-loop-to-make-projections",
+    "tags": [
+      "r",
+      "dataframe",
+      "data-science",
+      "projection"
+    ],
+    "author": "dmoyaec",
+    "date": 1688569913
+  },
+  {
+    "_id": "68930fce29c896dfcac9084a",
+    "title": "How to fix a data fetching function in python using sql query?",
+    "link": "https://stackoverflow.com/questions/76620772/how-to-fix-a-data-fetching-function-in-python-using-sql-query",
+    "tags": [
+      "python",
+      "sql",
+      "data-science",
+      "analytics",
+      "dremio"
+    ],
+    "author": "Moinak Dey",
+    "date": 1688563202
+  },
+  {
+    "_id": "68930fce29c896dfcac9084b",
+    "title": "Not_Fitted_Error : This LabelEncoder instance is not fitted yet. Call &#39;fit&#39; with appropriate arguments before using this estimator",
+    "link": "https://stackoverflow.com/questions/76617953/not-fitted-error-this-labelencoder-instance-is-not-fitted-yet-call-fit-with",
+    "tags": [
+      "python",
+      "pandas",
+      "numpy",
+      "machine-learning",
+      "data-science"
+    ],
+    "author": "Alok",
+    "date": 1688541756
+  },
+  {
+    "_id": "68930fce29c896dfcac9084c",
+    "title": "Psycopg inserting only two rows on data being passed via for loop",
+    "link": "https://stackoverflow.com/questions/76615437/psycopg-inserting-only-two-rows-on-data-being-passed-via-for-loop",
+    "tags": [
+      "python",
+      "data-science",
+      "gis",
+      "postgis",
+      "psycopg2"
+    ],
+    "author": "HelpOverFlow",
+    "date": 1688499121
+  },
+  {
+    "_id": "68930fce29c896dfcac9084d",
+    "title": "How can I filter outliers while keeping rows where the target variable is of a certain value?",
+    "link": "https://stackoverflow.com/questions/76607974/how-can-i-filter-outliers-while-keeping-rows-where-the-target-variable-is-of-a-c",
+    "tags": [
+      "pandas",
+      "dataframe",
+      "conditional-statements",
+      "data-science"
+    ],
+    "author": "NewbDataME",
+    "date": 1688416886
+  },
+  {
+    "_id": "68930fce29c896dfcac9084e",
+    "title": "Selecting row with highest value based on two different columns",
+    "link": "https://stackoverflow.com/questions/76606393/selecting-row-with-highest-value-based-on-two-different-columns",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "numpy",
+      "data-science"
+    ],
+    "author": "Vivek Sukhala",
+    "date": 1688399756
+  },
+  {
+    "_id": "68930fce29c896dfcac9084f",
+    "title": "Converting data in JSON format to string format in python",
+    "link": "https://stackoverflow.com/questions/76606268/converting-data-in-json-format-to-string-format-in-python",
+    "tags": [
+      "python",
+      "dataframe",
+      "data-science"
+    ],
+    "author": "int_x",
+    "date": 1688398655
+  },
+  {
+    "_id": "68930fce29c896dfcac90850",
+    "title": "How to prune a classification decision tree based on classification thresholds",
+    "link": "https://stackoverflow.com/questions/76604183/how-to-prune-a-classification-decision-tree-based-on-classification-thresholds",
+    "tags": [
+      "scikit-learn",
+      "data-science",
+      "classification",
+      "decision-tree",
+      "pruning"
+    ],
+    "author": "Apollo",
+    "date": 1688382638
+  },
+  {
+    "_id": "68930fce29c896dfcac90851",
+    "title": "Self-querying retrieval in langchain returning only 4 results",
+    "link": "https://stackoverflow.com/questions/76603178/self-querying-retrieval-in-langchain-returning-only-4-results",
+    "tags": [
+      "python",
+      "python-3.x",
+      "machine-learning",
+      "data-science",
+      "langchain"
+    ],
+    "author": "Shubham Shinde",
+    "date": 1688373941
+  },
+  {
+    "_id": "68930fce29c896dfcac90852",
+    "title": "What happens while predicting using a model when preprocessing layer is inside the model itself?",
+    "link": "https://stackoverflow.com/questions/76595794/what-happens-while-predicting-using-a-model-when-preprocessing-layer-is-inside-t",
+    "tags": [
+      "pandas",
+      "tensorflow",
+      "machine-learning",
+      "data-science",
+      "tensorflow-lite"
+    ],
+    "author": "Ben-geo",
+    "date": 1688231911
+  },
+  {
+    "_id": "68930fce29c896dfcac90853",
+    "title": "Getting an error from hdbscan while importing bertopic",
+    "link": "https://stackoverflow.com/questions/76589137/getting-an-error-from-hdbscan-while-importing-bertopic",
+    "tags": [
+      "python",
+      "anaconda",
+      "data-science",
+      "topic-modeling"
+    ],
+    "author": "Salihcan",
+    "date": 1688129794
+  },
+  {
+    "_id": "68930fce29c896dfcac90854",
+    "title": "Compare number in numpy array",
+    "link": "https://stackoverflow.com/questions/76583637/compare-number-in-numpy-array",
+    "tags": [
+      "arrays",
+      "algorithm",
+      "numpy",
+      "data-science"
+    ],
+    "author": "Nared Fuengverojsakul",
+    "date": 1688062335
+  },
+  {
+    "_id": "68930fce29c896dfcac90855",
+    "title": "How do obtain the local minimum and maximum points of a stock using yfinance in python?",
+    "link": "https://stackoverflow.com/questions/76560259/how-do-obtain-the-local-minimum-and-maximum-points-of-a-stock-using-yfinance-in",
+    "tags": [
+      "python",
+      "database",
+      "data-science",
+      "finance",
+      "stock"
+    ],
+    "author": "Mike Cox",
+    "date": 1687813782
+  },
+  {
+    "_id": "68930fce29c896dfcac90856",
+    "title": "sklearn OrdinalEncoder default ordering (categories=&#39;auto&#39;)",
+    "link": "https://stackoverflow.com/questions/76557111/sklearn-ordinalencoder-default-ordering-categories-auto",
+    "tags": [
+      "scikit-learn",
+      "data-science"
+    ],
+    "author": "nivniv",
+    "date": 1687785731
+  },
+  {
+    "_id": "68930fce29c896dfcac90857",
+    "title": "Do clustering on dataset but don&#39;t divide items with the same label",
+    "link": "https://stackoverflow.com/questions/76539887/do-clustering-on-dataset-but-dont-divide-items-with-the-same-label",
+    "tags": [
+      "python",
+      "machine-learning",
+      "data-science",
+      "cluster-analysis"
+    ],
+    "author": "Krzysztof C",
+    "date": 1687521457
+  },
+  {
+    "_id": "68930fce29c896dfcac90858",
+    "title": "I am trying to get top5 products from a list of products",
+    "link": "https://stackoverflow.com/questions/76537670/i-am-trying-to-get-top5-products-from-a-list-of-products",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "machine-learning",
+      "data-science"
+    ],
+    "author": "Alok",
+    "date": 1687502701
+  },
+  {
+    "_id": "68930fce29c896dfcac90859",
+    "title": "How can I convert an onnx model to coreml?",
+    "link": "https://stackoverflow.com/questions/76536106/how-can-i-convert-an-onnx-model-to-coreml",
+    "tags": [
+      "python",
+      "pytorch",
+      "data-science",
+      "onnx",
+      "coremltools"
+    ],
+    "author": "Jakdad Jakdad",
+    "date": 1687473970
+  },
+  {
+    "_id": "68930fce29c896dfcac9085a",
+    "title": "Label a certain x,y data point on a validation curve",
+    "link": "https://stackoverflow.com/questions/76534055/label-a-certain-x-y-data-point-on-a-validation-curve",
+    "tags": [
+      "scikit-learn",
+      "data-science",
+      "cross-validation"
+    ],
+    "author": "fan-yang",
+    "date": 1687452515
+  },
+  {
+    "_id": "68930fce29c896dfcac9085b",
+    "title": "How to convert the Non-Monday column to Monday in Pandas Dataframe",
+    "link": "https://stackoverflow.com/questions/76528548/how-to-convert-the-non-monday-column-to-monday-in-pandas-dataframe",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "datetime",
+      "data-science"
+    ],
+    "author": "Shan Jiang",
+    "date": 1687406840
+  },
+  {
+    "_id": "68930fce29c896dfcac9085c",
+    "title": "How to get company earning announcements data API?",
+    "link": "https://stackoverflow.com/questions/76528084/how-to-get-company-earning-announcements-data-api",
+    "tags": [
+      "python",
+      "data-science",
+      "real-time",
+      "finance"
+    ],
+    "author": "\uad8c\uc2b9\ube48",
+    "date": 1687396612
+  },
+  {
+    "_id": "68930fce29c896dfcac9085d",
+    "title": "have two dictionary columns with different lengths want to use series explode but it mismatch",
+    "link": "https://stackoverflow.com/questions/76521211/have-two-dictionary-columns-with-different-lengths-want-to-use-series-explode-bu",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science",
+      "data-analysis"
+    ],
+    "author": "SHAIMA ALJAHANI",
+    "date": 1687334853
+  },
+  {
+    "_id": "68930fce29c896dfcac9085e",
+    "title": "Time column and DateTime Format (DateTime object vs String Object)",
+    "link": "https://stackoverflow.com/questions/76505802/time-column-and-datetime-format-datetime-object-vs-string-object",
+    "tags": [
+      "python",
+      "data-science",
+      "amibroker"
+    ],
+    "author": "Jitin",
+    "date": 1687170974
+  },
+  {
+    "_id": "68930fce29c896dfcac9085f",
+    "title": "Combine two Pandas rows into one with duplicated columns for time series",
+    "link": "https://stackoverflow.com/questions/76502238/combine-two-pandas-rows-into-one-with-duplicated-columns-for-time-series",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science",
+      "data-manipulation"
+    ],
+    "author": "bktllr",
+    "date": 1687116721
+  },
+  {
+    "_id": "68930fce29c896dfcac90860",
+    "title": "Why Remove Trend and Seasonality in Time Series Forecasting?",
+    "link": "https://stackoverflow.com/questions/76497300/why-remove-trend-and-seasonality-in-time-series-forecasting",
+    "tags": [
+      "python",
+      "time-series",
+      "data-science",
+      "forecasting"
+    ],
+    "author": "Gautham A",
+    "date": 1687021900
+  },
+  {
+    "_id": "68930fce29c896dfcac90861",
+    "title": "How to fix unexpected KeyError while mapping DataFrame column value to dictionary within loop in Python?",
+    "link": "https://stackoverflow.com/questions/76493683/how-to-fix-unexpected-keyerror-while-mapping-dataframe-column-value-to-dictionar",
+    "tags": [
+      "python",
+      "dataframe",
+      "dictionary",
+      "data-science",
+      "facebook-prophet"
+    ],
+    "author": "Julien C.",
+    "date": 1686951056
+  },
+  {
+    "_id": "68930fce29c896dfcac90862",
+    "title": "template.serveable() not working as expected in Python panel",
+    "link": "https://stackoverflow.com/questions/76492815/template-serveable-not-working-as-expected-in-python-panel",
+    "tags": [
+      "pandas",
+      "web-applications",
+      "data-science",
+      "panel",
+      "hvplot"
+    ],
+    "author": "Thushar Mohan",
+    "date": 1686940558
+  },
+  {
+    "_id": "68930fce29c896dfcac90863",
+    "title": "How to increase pandas explode function performance?",
+    "link": "https://stackoverflow.com/questions/76491187/how-to-increase-pandas-explode-function-performance",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "numpy",
+      "data-science"
+    ],
+    "author": "abcd_1234",
+    "date": 1686925947
+  },
+  {
+    "_id": "68930fce29c896dfcac90864",
+    "title": "I am getting &quot;Key Error&quot; Exception in Python",
+    "link": "https://stackoverflow.com/questions/76488380/i-am-getting-key-error-exception-in-python",
+    "tags": [
+      "python",
+      "arrays",
+      "pandas",
+      "image",
+      "data-science"
+    ],
+    "author": "Prachik",
+    "date": 1686904553
+  },
+  {
+    "_id": "68930fce29c896dfcac90865",
+    "title": "How does one create a pandas column (binary) based on whether or not another column contains dates",
+    "link": "https://stackoverflow.com/questions/76485562/how-does-one-create-a-pandas-column-binary-based-on-whether-or-not-another-col",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science"
+    ],
+    "author": "Vince Chlortho",
+    "date": 1686863684
+  },
+  {
+    "_id": "68930fce29c896dfcac90866",
+    "title": "Pandas groupby(pd.Grouper) is throwing error for datetime but im running it on a datetime object",
+    "link": "https://stackoverflow.com/questions/76479625/pandas-groupbypd-grouper-is-throwing-error-for-datetime-but-im-running-it-on-a",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "datetime",
+      "data-science"
+    ],
+    "author": "Luke",
+    "date": 1686809998
+  },
+  {
+    "_id": "68930fce29c896dfcac90867",
+    "title": "Why does the KS-Test give a p-value of 1 if the distribution is different",
+    "link": "https://stackoverflow.com/questions/76474969/why-does-the-ks-test-give-a-p-value-of-1-if-the-distribution-is-different",
+    "tags": [
+      "python",
+      "statistics",
+      "data-science",
+      "kolmogorov-smirnov"
+    ],
+    "author": "Lunar Cultist",
+    "date": 1686754962
+  },
+  {
+    "_id": "68930fce29c896dfcac90868",
+    "title": "How can I get history subscriber count in Youtube? E.g. How to see what is the subscriber count at the end of 2022 vs 2023",
+    "link": "https://stackoverflow.com/questions/76474620/how-can-i-get-history-subscriber-count-in-youtube-e-g-how-to-see-what-is-the-s",
+    "tags": [
+      "google-api",
+      "youtube-api",
+      "data-science",
+      "data-analysis",
+      "youtube-data-api"
+    ],
+    "author": "zacaugustzac",
+    "date": 1686752701
+  },
+  {
+    "_id": "68930fce29c896dfcac90869",
+    "title": "ModuleNotFoundError: No module named &#39;tapas.utils&#39;",
+    "link": "https://stackoverflow.com/questions/76473828/modulenotfounderror-no-module-named-tapas-utils",
+    "tags": [
+      "machine-learning",
+      "data-science",
+      "artificial-intelligence"
+    ],
+    "author": "Abhi",
+    "date": 1686747318
+  },
+  {
+    "_id": "68930fce29c896dfcac9086a",
+    "title": "Difference between Word2Vec and contextual embedding",
+    "link": "https://stackoverflow.com/questions/76471584/difference-between-word2vec-and-contextual-embedding",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "nlp",
+      "data-science"
+    ],
+    "author": "tovijayak",
+    "date": 1686731617
+  },
+  {
+    "_id": "68930fce29c896dfcac9086b",
+    "title": "How do I combine my dataframes while iterating through rows and adding a new column everytime",
+    "link": "https://stackoverflow.com/questions/76469276/how-do-i-combine-my-dataframes-while-iterating-through-rows-and-adding-a-new-col",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "csv",
+      "data-science"
+    ],
+    "author": "codingray",
+    "date": 1686698667
+  },
+  {
+    "_id": "68930fce29c896dfcac9086c",
+    "title": "Webscraping images from google images",
+    "link": "https://stackoverflow.com/questions/76467917/webscraping-images-from-google-images",
+    "tags": [
+      "python",
+      "web-scraping",
+      "beautifulsoup",
+      "data-science"
+    ],
+    "author": "Srivaths Gondi",
+    "date": 1686682238
+  },
+  {
+    "_id": "68930fce29c896dfcac9086d",
+    "title": "ValueError: Need 2 classes but I have 0",
+    "link": "https://stackoverflow.com/questions/76465909/valueerror-need-2-classes-but-i-have-0",
+    "tags": [
+      "python",
+      "dataframe",
+      "machine-learning",
+      "scikit-learn",
+      "data-science"
+    ],
+    "author": "fuzexe",
+    "date": 1686665935
+  },
+  {
+    "_id": "68930fce29c896dfcac9086e",
+    "title": "unable to install lap==0.4.0 library in python",
+    "link": "https://stackoverflow.com/questions/76463707/unable-to-install-lap-0-4-0-library-in-python",
+    "tags": [
+      "python",
+      "machine-learning",
+      "data-science",
+      "object-detection",
+      "cvzone"
+    ],
+    "author": "Biraj Mishra",
+    "date": 1686650126
+  },
+  {
+    "_id": "68930fce29c896dfcac9086f",
+    "title": "Fast estimation of lagged covariance",
+    "link": "https://stackoverflow.com/questions/76463018/fast-estimation-of-lagged-covariance",
+    "tags": [
+      "python",
+      "python-3.x",
+      "statistics",
+      "data-science",
+      "signal-processing"
+    ],
+    "author": "Orestis",
+    "date": 1686644837
+  },
+  {
+    "_id": "68930fce29c896dfcac90870",
+    "title": "How do I convert a Vec &lt;&amp;str&gt; to Vec &lt;String&gt;?",
+    "link": "https://stackoverflow.com/questions/76461002/how-do-i-convert-a-vec-str-to-vec-string",
+    "tags": [
+      "rust",
+      "data-science",
+      "arff"
+    ],
+    "author": "Madhouse1999",
+    "date": 1686615713
+  },
+  {
+    "_id": "68930fce29c896dfcac90871",
+    "title": "Feature Engineering in Python",
+    "link": "https://stackoverflow.com/questions/76451829/feature-engineering-in-python",
+    "tags": [
+      "python",
+      "data-science",
+      "one-hot-encoding",
+      "feature-engineering",
+      "label-encoding"
+    ],
+    "author": "Kugan",
+    "date": 1686506590
+  },
+  {
+    "_id": "68930fce29c896dfcac90872",
+    "title": "How to iterate through a website that shows no index in the URL",
+    "link": "https://stackoverflow.com/questions/76449810/how-to-iterate-through-a-website-that-shows-no-index-in-the-url",
+    "tags": [
+      "python",
+      "dataframe",
+      "web-scraping",
+      "data-science"
+    ],
+    "author": "kosky",
+    "date": 1686475478
+  },
+  {
+    "_id": "68930fce29c896dfcac90873",
+    "title": "How to convert a complex datasheet into a usabale dataframe?",
+    "link": "https://stackoverflow.com/questions/76444291/how-to-convert-a-complex-datasheet-into-a-usabale-dataframe",
+    "tags": [
+      "python",
+      "dataframe",
+      "data-science"
+    ],
+    "author": "LeftyRPZ",
+    "date": 1686357738
+  },
+  {
+    "_id": "68930fce29c896dfcac90874",
+    "title": "Normallity Tests and Data Science",
+    "link": "https://stackoverflow.com/questions/76439597/normallity-tests-and-data-science",
+    "tags": [
+      "data-science",
+      "statistical-test"
+    ],
+    "author": "Caio S&#243;ter",
+    "date": 1686308271
+  },
+  {
+    "_id": "68930fce29c896dfcac90875",
+    "title": "Getting RuntimeError : configs/COCO-Detection/faster_rcnn_R_50_FPN_3x.yaml not available in Model Zoo! while Running Detectron2 for Object Detection",
+    "link": "https://stackoverflow.com/questions/76436619/getting-runtimeerror-configs-coco-detection-faster-rcnn-r-50-fpn-3x-yaml-not-a",
+    "tags": [
+      "python",
+      "data-science",
+      "pre-trained-model",
+      "faster-rcnn",
+      "detectron"
+    ],
+    "author": "Ridoy Kanto Joy",
+    "date": 1686273760
+  },
+  {
+    "_id": "68930fce29c896dfcac90876",
+    "title": "Transform Data Set Using Pandas",
+    "link": "https://stackoverflow.com/questions/76436143/transform-data-set-using-pandas",
+    "tags": [
+      "pandas",
+      "numpy",
+      "scikit-learn",
+      "data-science"
+    ],
+    "author": "Don",
+    "date": 1686264141
+  },
+  {
+    "_id": "68930fce29c896dfcac90877",
+    "title": "Comparing data to a mapping file in R",
+    "link": "https://stackoverflow.com/questions/76431885/comparing-data-to-a-mapping-file-in-r",
+    "tags": [
+      "r",
+      "compare",
+      "mapping",
+      "data-science"
+    ],
+    "author": "xusha666",
+    "date": 1686227474
+  },
+  {
+    "_id": "68930fce29c896dfcac90878",
+    "title": "When using scikit-learn K-Means Clustering, how can you extract the centroids in original data domain?",
+    "link": "https://stackoverflow.com/questions/76426328/when-using-scikit-learn-k-means-clustering-how-can-you-extract-the-centroids-in",
+    "tags": [
+      "python",
+      "data-science",
+      "cluster-analysis",
+      "k-means"
+    ],
+    "author": "Colton Campbell",
+    "date": 1686164453
+  },
+  {
+    "_id": "68930fce29c896dfcac90879",
+    "title": "Anaconda new environment error: Paths don&#39;t have the same drive",
+    "link": "https://stackoverflow.com/questions/76425016/anaconda-new-environment-error-paths-dont-have-the-same-drive",
+    "tags": [
+      "anaconda",
+      "data-science"
+    ],
+    "author": "Leyla Elkhamlichi",
+    "date": 1686152537
+  },
+  {
+    "_id": "68930fce29c896dfcac9087a",
+    "title": "Sum of column that resets to zero through out a process",
+    "link": "https://stackoverflow.com/questions/76423496/sum-of-column-that-resets-to-zero-through-out-a-process",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-science"
+    ],
+    "author": "Parker3306",
+    "date": 1686142273
+  },
+  {
+    "_id": "68930fce29c896dfcac9087b",
+    "title": "Getting a ModuleNotFoundError with librosa",
+    "link": "https://stackoverflow.com/questions/76418309/getting-a-modulenotfounderror-with-librosa",
+    "tags": [
+      "python",
+      "python-3.x",
+      "data-science",
+      "librosa",
+      "modulenotfounderror"
+    ],
+    "author": "DaddyMuffin",
+    "date": 1686084143
+  },
+  {
+    "_id": "68930fce29c896dfcac9087c",
+    "title": "pandas series mark all the rows between two values",
+    "link": "https://stackoverflow.com/questions/76415088/pandas-series-mark-all-the-rows-between-two-values",
+    "tags": [
+      "pandas",
+      "dataframe",
+      "data-science",
+      "data-munging"
+    ],
+    "author": "Cranjis",
+    "date": 1686057467
+  },
+  {
+    "_id": "68930fce29c896dfcac9087d",
+    "title": "sentiment classification using doc2vec and LSTM Models",
+    "link": "https://stackoverflow.com/questions/76401941/sentiment-classification-using-doc2vec-and-lstm-models",
+    "tags": [
+      "python",
+      "nlp",
+      "data-science",
+      "lstm",
+      "doc2vec"
+    ],
+    "author": "Sara Almashharawi",
+    "date": 1685904224
+  },
+  {
+    "_id": "68930fce29c896dfcac9087e",
+    "title": "Prevent tidymodels from turning numeric to chr",
+    "link": "https://stackoverflow.com/questions/76400397/prevent-tidymodels-from-turning-numeric-to-chr",
+    "tags": [
+      "r",
+      "types",
+      "data-science",
+      "tidymodels",
+      "r-recipes"
+    ],
+    "author": "Elliott Barinberg",
+    "date": 1685881334
+  },
+  {
+    "_id": "68930fce29c896dfcac9087f",
+    "title": "Getting error while parsing through driver.find_element()",
+    "link": "https://stackoverflow.com/questions/76400223/getting-error-while-parsing-through-driver-find-element",
+    "tags": [
+      "python",
+      "selenium-webdriver",
+      "data-science",
+      "analysis"
+    ],
+    "author": "VEDANT YADAV",
+    "date": 1685878963
+  },
+  {
+    "_id": "68930fce29c896dfcac90880",
+    "title": "Why does the algorithm sometimes not behave as intended?",
+    "link": "https://stackoverflow.com/questions/76397456/why-does-the-algorithm-sometimes-not-behave-as-intended",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "algorithm",
+      "data-science"
+    ],
+    "author": "Yusuf Shehadeh",
+    "date": 1685816773
+  },
+  {
+    "_id": "68930fce29c896dfcac90881",
+    "title": "ModuleNotFoundError: No module named &#39;sklearn.ensemble._bagging&#39;",
+    "link": "https://stackoverflow.com/questions/76394823/modulenotfounderror-no-module-named-sklearn-ensemble-bagging",
+    "tags": [
+      "github",
+      "data-science",
+      "python-3.7",
+      "data-science-experience",
+      "github-issues"
+    ],
+    "author": "Aditya rai",
+    "date": 1685773844
+  },
+  {
+    "_id": "68930fce29c896dfcac90882",
+    "title": "Create tables using OptBinning with custom bins",
+    "link": "https://stackoverflow.com/questions/76392184/create-tables-using-optbinning-with-custom-bins",
+    "tags": [
+      "python",
+      "data-science",
+      "analytics",
+      "optbinning"
+    ],
+    "author": "TomasLeon",
+    "date": 1685725588
+  },
+  {
+    "_id": "68930fce29c896dfcac90883",
+    "title": "How do I implement a 30-day cutoff in the Chow test to analyze changes in time series data after a significant event?",
+    "link": "https://stackoverflow.com/questions/76384940/how-do-i-implement-a-30-day-cutoff-in-the-chow-test-to-analyze-changes-in-time-s",
+    "tags": [
+      "python",
+      "time-series",
+      "data-science",
+      "data-analysis"
+    ],
+    "author": "Jacob Z",
+    "date": 1685646004
+  },
+  {
+    "_id": "68930fce29c896dfcac90884",
+    "title": "How can I separate data in a MATLAB dat file into proper columns?",
+    "link": "https://stackoverflow.com/questions/76384247/how-can-i-separate-data-in-a-matlab-dat-file-into-proper-columns",
+    "tags": [
+      "dataframe",
+      "matlab",
+      "data-science"
+    ],
+    "author": "Emily",
+    "date": 1685639687
+  },
+  {
+    "_id": "68930fce29c896dfcac90885",
+    "title": "Generating means from bivariate gaussian distribution",
+    "link": "https://stackoverflow.com/questions/76375459/generating-means-from-bivariate-gaussian-distribution",
+    "tags": [
+      "statistics",
+      "data-science",
+      "gaussian-process",
+      "gaussian-mixture-model"
+    ],
+    "author": "Meetali ",
+    "date": 1685549451
+  },
+  {
+    "_id": "68930fce29c896dfcac90886",
+    "title": "How to add a fixed value to the Y axis in Altair?",
+    "link": "https://stackoverflow.com/questions/76361820/how-to-add-a-fixed-value-to-the-y-axis-in-altair",
+    "tags": [
+      "python",
+      "data-science",
+      "altair"
+    ],
+    "author": "engineer-x",
+    "date": 1685424469
+  },
+  {
+    "_id": "68930fce29c896dfcac90887",
+    "title": "Why I can&#39;t load dataset from seaborn",
+    "link": "https://stackoverflow.com/questions/76345909/why-i-cant-load-dataset-from-seaborn",
+    "tags": [
+      "python",
+      "pandas",
+      "numpy",
+      "seaborn",
+      "data-science"
+    ],
+    "author": "Hanith",
+    "date": 1685174462
+  },
+  {
+    "_id": "68930fce29c896dfcac90888",
+    "title": "import langchain =&gt; Error : TypeError: issubclass() arg 1 must be a class",
+    "link": "https://stackoverflow.com/questions/76313592/import-langchain-error-typeerror-issubclass-arg-1-must-be-a-class",
+    "tags": [
+      "python",
+      "nlp",
+      "data-science",
+      "chatbot",
+      "langchain"
+    ],
+    "author": "M. D. P",
+    "date": 1684836587
+  },
+  {
+    "_id": "68930fce29c896dfcac90889",
+    "title": "How can I fix the &#39;arrays must be in the same length&#39; error in my Python web scraping code using Selenium and BeautifulSoup?",
+    "link": "https://stackoverflow.com/questions/76306008/how-can-i-fix-the-arrays-must-be-in-the-same-length-error-in-my-python-web-scr",
+    "tags": [
+      "python",
+      "selenium-webdriver",
+      "web-scraping",
+      "beautifulsoup",
+      "data-science"
+    ],
+    "author": "Gilad Levy",
+    "date": 1684757036
+  },
+  {
+    "_id": "68930fce29c896dfcac9088a",
+    "title": "Load Teachable Machine Model in HTML and JavaScript Code",
+    "link": "https://stackoverflow.com/questions/76304762/load-teachable-machine-model-in-html-and-javascript-code",
+    "tags": [
+      "javascript",
+      "html",
+      "tensorflow",
+      "data-science",
+      "teachable-machine"
+    ],
+    "author": "yellesh",
+    "date": 1684747836
+  },
+  {
+    "_id": "68930fce29c896dfcac9088b",
+    "title": "Mysterious &quot;Segmentation fault&quot; error when running a Fortran program",
+    "link": "https://stackoverflow.com/questions/76303952/mysterious-segmentation-fault-error-when-running-a-fortran-program",
+    "tags": [
+      "fortran",
+      "data-science",
+      "hdf5",
+      "netcdf4"
+    ],
+    "author": "Liren",
+    "date": 1684741181
+  },
+  {
+    "_id": "68930fce29c896dfcac9088c",
+    "title": "How does python apply filters to specific columns?",
+    "link": "https://stackoverflow.com/questions/76298855/how-does-python-apply-filters-to-specific-columns",
+    "tags": [
+      "python",
+      "numpy",
+      "data-science"
+    ],
+    "author": "Curious Boy ",
+    "date": 1684656019
+  },
+  {
+    "_id": "68930fce29c896dfcac9088d",
+    "title": "hoe to applied example in Sentiment analysis using textblob and naive bayes",
+    "link": "https://stackoverflow.com/questions/76298214/hoe-to-applied-example-in-sentiment-analysis-using-textblob-and-naive-bayes",
+    "tags": [
+      "dataset",
+      "data-science",
+      "sentiment-analysis",
+      "naivebayes",
+      "textblob"
+    ],
+    "author": "user21062760",
+    "date": 1684640947
+  }
+]
