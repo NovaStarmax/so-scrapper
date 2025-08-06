@@ -18,6 +18,6 @@ def setup_indexes(collection: str):
 if __name__ == "__main__":
     # setup_indexes(COLLECTION_API)
     # setup_indexes(COLLECTION_SCRAPPER)
-    # synchronize("api.json", get_collection(COLLECTION_API))
+    synchronize("api.json", get_collection(COLLECTION_API))
     synchronize("scrapper.json", get_collection(COLLECTION_SCRAPPER))
     # append_new_documents_to_json("scrapper.json", get_collection(COLLECTION_SCRAPPER))
