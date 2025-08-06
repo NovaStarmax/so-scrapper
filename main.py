@@ -1,7 +1,4 @@
-import sys
 import os
-# sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
-# sys.path.append(os.path.join(os.path.dirname(__file__), "handle_io"))
 from dotenv import load_dotenv
 from src.database import get_collection
 from handle_io.sync_db import synchronize
