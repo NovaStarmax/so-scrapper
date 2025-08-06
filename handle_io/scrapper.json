@@ -1,0 +1,15 @@
+[
+    {
+        "_id": {
+            "$oid": "68922388ae7bb4e6cf70136f"
+        },
+        "title": "Unity What is Total Size and How can reduce it?",
+        "link": "https://stackoverflow.com/questions/79726304/unity-what-is-total-size-and-how-can-reduce-it",
+        "summary": "I'm developing a 2D game in Unity (version 6.1).\nAfter building and installing the APK on my Android device, I noticed that the app takes up about 170MB of space. However:\nThe APK file is only 47MB.\n...",
+        "tags": [
+            "unity-game-engine"
+        ],
+        "author": "zafer",
+        "date": "2025-08-05 14:55:08Z"
+    }
+]

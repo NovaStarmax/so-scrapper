@@ -3,10 +3,8 @@ import os
 # sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
 # sys.path.append(os.path.join(os.path.dirname(__file__), "handle_io"))
 from dotenv import load_dotenv
-from database import get_collection
-from handle_io.export import append_new_documents_to_json
-
-
+from src.database import get_collection
+from handle_io.sync_db import synchronize
 
 load_dotenv()
 COLLECTION_API = os.getenv("COLLECTION_API")
@@ -20,5 +18,6 @@ def setup_indexes(collection: str):
 if __name__ == "__main__":
     # setup_indexes(COLLECTION_API)
     # setup_indexes(COLLECTION_SCRAPPER)
-    append_new_documents_to_json("api.json", get_collection(COLLECTION_API))
+    # synchronize("api.json", get_collection(COLLECTION_API))
+    synchronize("scrapper.json", get_collection(COLLECTION_SCRAPPER))
     # append_new_documents_to_json("scrapper.json", get_collection(COLLECTION_SCRAPPER))
