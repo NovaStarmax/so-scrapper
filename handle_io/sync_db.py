@@ -43,7 +43,6 @@ def import_data(json_file: str, collection):
 
     existing_links = {doc.get("link") for doc in collection.find({}, {"link": 1}) if doc.get("link")}
 
-    # Filtrer les documents à insérer
     docs_to_insert = []
     for doc in data:
         link = doc.get("link")

@@ -15,7 +15,7 @@ def get_newest_datasciences(page_size: int = 100, nb_pages: int = 2):
             "order": "desc",
             "sort": "creation",
             "site": "stackoverflow",
-            "filter": "withbody",  # Important pour inclure 'body'
+            "filter": "withbody",  
             "pagesize": page_size,
             "tagged": "data-science",
             "page": page
