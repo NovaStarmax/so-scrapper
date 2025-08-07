@@ -13,3 +13,9 @@ Index unique par URL, s'il y a un doublon, ne l'ajoute pas en double
 ## Tests
 uv run pytest -m api
 uv run pytest -m scrapper
+
+## datascience.ipynb
+import nltk
+nltk.download('stopwords')
+nltk.download('wordnet')
+
